@@ -44,3 +44,4 @@ Temporary Items
 
 # Temporary .vim files
 *.py~
+*.swp

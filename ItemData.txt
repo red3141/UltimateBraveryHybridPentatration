@@ -513,31 +513,6 @@
          "id": 3112,
          "name": "Orb of Winter"
       },
-      "3240": {
-         "id": 3240,
-         "name": "Enchantment: Furor",
-         "group": "BootsFuror"
-      },
-      "3241": {
-         "id": 3241,
-         "name": "Enchantment: Alacrity",
-         "group": "BootsAlacrity"
-      },
-      "3242": {
-         "id": 3242,
-         "name": "Enchantment: Captain",
-         "group": "BootsCaptain"
-      },
-      "3243": {
-         "id": 3243,
-         "name": "Enchantment: Distortion",
-         "group": "BootsDistortion"
-      },
-      "3244": {
-         "id": 3244,
-         "name": "Enchantment: Homeguard",
-         "group": "BootsHomeguard"
-      },
       "3829": {
          "tags": [
             "Active",
@@ -711,7 +686,7 @@
       "2139": {
          "tags": [
             "Consumable",
-            "ManaRegen",
+            "ManaRegen",3
             "SpellDamage"
          ],
          "id": 2139,
@@ -807,7 +782,7 @@
             "Vision"
          ],
          "id": 3340,
-         "name": "Warding Totem (Trinket)",
+         "name": "python (Trinket)",
          "group": "RelicBase"
       },
       "3156": {
