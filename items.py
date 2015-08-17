@@ -87,5 +87,5 @@ def writeItems(gameMap, startingItems, boots, items, consumables):
   
 
 writeItems("SR", [{"id":"1056", "count":1}, {"id":"2003", "count":2}, {"id":"3340", "count":1}], [1300],
-  [1300, 3110, 3100, 3800, 3508, 3003], [2003, 2004, 2044, 2043,2137])
+  [1300, 3285, 3285, 3286, 3508, 3003], [2003, 2004, 2044, 2043,2137])
 raw_input("Press Enter to continue...")

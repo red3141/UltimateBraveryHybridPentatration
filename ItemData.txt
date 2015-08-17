@@ -2,7 +2,9 @@
       "3725": {
          "tags": [
             "Health",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3725,
          "name": "Enchantment: Cinderhulk",
@@ -13,14 +15,20 @@
             "CooldownReduction",
             "Jungle",
             "Mana",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT"
          ],
          "id": 3724,
          "name": "Enchantment: Runeglaive",
          "group": "JungleItems"
       },
       "3089": {
-         "tags": ["SpellDamage"],
+         "tags": [
+            "SpellDamage",
+            "SR",
+            "HA"
+         ],
          "id": 3089,
          "name": "Rabadon's Deathcap"
       },
@@ -29,7 +37,9 @@
             "ArmorPenetration",
             "CooldownReduction",
             "Damage",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3723,
          "name": "Enchantment: Warrior",
@@ -40,7 +50,9 @@
             "AttackSpeed",
             "Damage",
             "Jungle",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT"
          ],
          "id": 3722,
          "name": "Enchantment: Devourer",
@@ -51,7 +63,11 @@
             "AttackSpeed",
             "CriticalStrike",
             "NonbootsMovement",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3087,
          "name": "Statikk Shiv"
@@ -59,7 +75,9 @@
       "3721": {
          "tags": [
             "Health",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3721,
          "name": "Enchantment: Cinderhulk",
@@ -68,13 +86,20 @@
       "2004": {
          "tags": [
             "Consumable",
-            "Lane"
+            "Lane",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 2004,
          "name": "Mana Potion",
          "group": "ManaPotion"
       },
       "1319": {
+         "tags": [
+            "SR"
+         ],
          "id": 1319,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
@@ -84,7 +109,9 @@
             "CooldownReduction",
             "Jungle",
             "Mana",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT"
          ],
          "id": 3720,
          "name": "Enchantment: Runeglaive",
@@ -93,12 +120,22 @@
       "3085": {
          "tags": [
             "AttackSpeed",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3085,
          "name": "Runaan's Hurricane (Ranged Only)"
       },
       "1318": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1318,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
@@ -106,12 +143,20 @@
       "3084": {
          "tags": [
             "Health",
-            "HealthRegen"
+            "HealthRegen",
+            "TT",
+            "CS"
          ],
          "id": 3084,
          "name": "Overlord's Bloodmail"
       },
       "1317": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1317,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
@@ -120,7 +165,11 @@
          "tags": [
             "Consumable",
             "Jungle",
-            "Lane"
+            "Lane",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 2003,
          "name": "Health Potion",
@@ -129,32 +178,61 @@
       "3083": {
          "tags": [
             "Health",
-            "HealthRegen"
+            "HealthRegen",
+            "SR",
+            "HA"
          ],
          "id": 3083,
          "name": "Warmog's Armor"
       },
       "1316": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1316,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
       },
       "1315": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1315,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
       },
       "1314": {
+         "tags": [
+            "SR"
+         ],
          "id": 1314,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
       },
       "1313": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1313,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
       },
       "1312": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1312,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
@@ -163,17 +241,33 @@
          "tags": [
             "NonbootsMovement",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3285,
          "name": "Luden's Echo"
       },
       "1311": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1311,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
       },
       "1310": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1310,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
@@ -183,7 +277,9 @@
             "AttackSpeed",
             "Damage",
             "Jungle",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT"
          ],
          "id": 3726,
          "name": "Enchantment: Devourer",
@@ -194,7 +290,8 @@
             "Active",
             "Bilgewater",
             "Damage",
-            "LifeSteal"
+            "LifeSteal",
+            "SR"
          ],
          "id": 3924,
          "name": "Flesheater (Melee Only)"
@@ -204,13 +301,18 @@
             "ArmorPenetration",
             "CooldownReduction",
             "Damage",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3714,
          "name": "Enchantment: Warrior",
          "group": "JungleItems"
       },
       "1329": {
+         "tags": [
+            "SR"
+         ],
          "id": 1329,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
@@ -223,12 +325,21 @@
             "Slow",
             "SpellDamage",
             "Stealth",
-            "Vision"
+            "Vision",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3290,
          "name": "Twin Shadows (Crystal Scar)"
       },
       "1328": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1328,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
@@ -238,7 +349,9 @@
             "AttackSpeed",
             "Damage",
             "Jungle",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT"
          ],
          "id": 3710,
          "name": "Enchantment: Devourer",
@@ -248,12 +361,22 @@
          "tags": [
             "AttackSpeed",
             "OnHit",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3091,
          "name": "Wit's End"
       },
       "1325": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1325,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
@@ -263,7 +386,9 @@
             "ArmorPenetration",
             "CooldownReduction",
             "Damage",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3719,
          "name": "Enchantment: Warrior",
@@ -273,22 +398,39 @@
          "tags": [
             "Active",
             "Armor",
-            "SpellDamage"
+            "SpellDamage",
+            "TT",
+            "CS"
          ],
          "id": 3090,
          "name": "Wooglet's Witchcap"
       },
       "1324": {
+         "tags": [
+            "SR"
+         ],
          "id": 1324,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
       },
       "1327": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1327,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
       },
       "1326": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1326,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
@@ -300,13 +442,23 @@
             "GoldPer",
             "ManaRegen",
             "Slow",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3092,
          "name": "Frost Queen's Claim",
          "group": "GoldBase"
       },
       "1321": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1321,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
@@ -316,18 +468,32 @@
             "CooldownReduction",
             "Jungle",
             "Mana",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT"
          ],
          "id": 3716,
          "name": "Enchantment: Runeglaive",
          "group": "JungleItems"
       },
       "1320": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1320,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
       },
       "1323": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1323,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
@@ -337,13 +503,21 @@
             "AttackSpeed",
             "Damage",
             "Jungle",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT"
          ],
          "id": 3718,
          "name": "Enchantment: Devourer",
          "group": "JungleItems"
       },
       "1322": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1322,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
@@ -351,13 +525,21 @@
       "3717": {
          "tags": [
             "Health",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3717,
          "name": "Enchantment: Cinderhulk",
          "group": "JungleItems"
       },
       "1330": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1330,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
@@ -367,7 +549,8 @@
             "Bilgewater",
             "CooldownReduction",
             "Health",
-            "HealthRegen"
+            "HealthRegen",
+            "SR"
          ],
          "id": 3911,
          "name": "Martyr's Gambit"
@@ -377,7 +560,11 @@
             "Armor",
             "Health",
             "NonbootsMovement",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3742,
          "name": "Dead Man's Plate"
@@ -391,7 +578,8 @@
             "ManaRegen",
             "OnHit",
             "SpellBlock",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3745,
          "name": "Puppeteer"
@@ -401,7 +589,8 @@
             "Active",
             "Bilgewater",
             "CooldownReduction",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3744,
          "name": "Staff of Flowing Water"
@@ -411,33 +600,61 @@
             "Bilgewater",
             "CooldownReduction",
             "GoldPer",
-            "ManaRegen"
+            "ManaRegen",
+            "SR"
          ],
          "id": 3840,
          "name": "Globe of Trust",
          "group": "GoldBase"
       },
       "1307": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1307,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
       },
       "1306": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1306,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
       },
       "1309": {
+         "tags": [
+            "SR"
+         ],
          "id": 1309,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
       },
       "1308": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1308,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
       },
       "1301": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1301,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
@@ -446,12 +663,19 @@
          "tags": [
             "Health",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "CS"
          ],
          "id": 1063,
          "name": "Prospector's Ring"
       },
       "1300": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1300,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
@@ -460,27 +684,49 @@
          "tags": [
             "AttackSpeed",
             "Damage",
-            "Health"
+            "Health",
+            "CS"
          ],
          "id": 1062,
          "name": "Prospector's Blade"
       },
       "1303": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1303,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
       },
       "1302": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1302,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
       },
       "1305": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1305,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
       },
       "1304": {
+         "tags": [
+            "SR"
+         ],
          "id": 1304,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
@@ -490,7 +736,10 @@
             "Health",
             "Lane",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 1056,
          "name": "Doran's Ring"
@@ -500,7 +749,11 @@
             "Armor",
             "Aura",
             "CooldownReduction",
-            "Mana"
+            "Mana",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3110,
          "name": "Frozen Heart"
@@ -508,7 +761,8 @@
       "3112": {
          "tags": [
             "HealthRegen",
-            "SpellBlock"
+            "SpellBlock",
+            "HA"
          ],
          "id": 3112,
          "name": "Orb of Winter"
@@ -520,7 +774,8 @@
             "Health",
             "MagicPenetration",
             "NonbootsMovement",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3829,
          "name": "Trickster's Glass"
@@ -529,7 +784,10 @@
          "tags": [
             "Health",
             "HealthRegen",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 3102,
          "name": "Banshee's Veil"
@@ -537,7 +795,9 @@
       "3104": {
          "tags": [
             "CriticalStrike",
-            "Damage"
+            "Damage",
+            "TT",
+            "CS"
          ],
          "id": 3104,
          "name": "Lord Van Damm's Pillager"
@@ -546,14 +806,19 @@
          "tags": [
             "Mana",
             "NonbootsMovement",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3100,
          "name": "Lich Bane"
       },
       "3245": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 3245,
          "name": "Enchantment: Teleport",
@@ -564,7 +829,9 @@
             "ArmorPenetration",
             "CooldownReduction",
             "Damage",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3707,
          "name": "Enchantment: Warrior",
@@ -577,7 +844,11 @@
             "HealthRegen",
             "Mana",
             "NonbootsMovement",
-            "Slow"
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3800,
          "name": "Righteous Glory"
@@ -587,7 +858,11 @@
             "CooldownReduction",
             "ManaRegen",
             "NonbootsMovement",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3504,
          "name": "Ardent Censer"
@@ -597,7 +872,9 @@
             "CooldownReduction",
             "Jungle",
             "Mana",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT"
          ],
          "id": 3708,
          "name": "Enchantment: Runeglaive",
@@ -606,7 +883,9 @@
       "3709": {
          "tags": [
             "Health",
-            "Jungle"
+            "Jungle",
+            "SR",
+            "TT"
          ],
          "id": 3709,
          "name": "Enchantment: Cinderhulk",
@@ -617,7 +896,9 @@
             "CooldownReduction",
             "Damage",
             "LifeSteal",
-            "ManaRegen"
+            "ManaRegen",
+            "SR",
+            "HA"
          ],
          "id": 3508,
          "name": "Essence Reaver"
@@ -626,7 +907,8 @@
          "tags": [
             "Active",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3361,
          "name": "Greater Stealth Totem (Trinket)",
@@ -636,7 +918,8 @@
          "tags": [
             "Active",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3362,
          "name": "Greater Vision Totem (Trinket)",
@@ -646,7 +929,8 @@
          "tags": [
             "Active",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR",
          ],
          "id": 3363,
          "name": "Farsight Orb (Trinket)",
@@ -656,7 +940,8 @@
          "tags": [
             "Active",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3364,
          "name": "Oracle's Lens (Trinket)",
@@ -667,7 +952,10 @@
             "Consumable",
             "Damage",
             "LifeSteal",
-            "SpellVamp"
+            "SpellVamp",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 2140,
          "name": "Elixir of Wrath",
@@ -677,7 +965,10 @@
          "tags": [
             "Consumable",
             "NonbootsMovement",
-            "Tenacity"
+            "Tenacity",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 2138,
          "name": "Elixir of Iron",
@@ -686,8 +977,11 @@
       "2139": {
          "tags": [
             "Consumable",
-            "ManaRegen",3
-            "SpellDamage"
+            "ManaRegen",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 2139,
          "name": "Elixir of Sorcery",
@@ -696,7 +990,10 @@
       "2137": {
          "tags": [
             "Consumable",
-            "Health"
+            "Health",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 2137,
          "name": "Elixir of Ruin",
@@ -709,7 +1006,11 @@
             "LifeSteal",
             "Slow",
             "SpellDamage",
-            "SpellVamp"
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3146,
          "name": "Hextech Gunblade"
@@ -718,7 +1019,10 @@
          "tags": [
             "Mana",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 3003,
          "name": "Archangel's Staff"
@@ -728,7 +1032,10 @@
             "Damage",
             "Mana",
             "ManaRegen",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 3004,
          "name": "Manamune"
@@ -737,7 +1044,8 @@
          "tags": [
             "Mana",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "CS"
          ],
          "id": 3007,
          "name": "Archangel's Staff (Crystal Scar)"
@@ -747,7 +1055,8 @@
             "Damage",
             "Mana",
             "ManaRegen",
-            "OnHit"
+            "OnHit",
+            "CS"
          ],
          "id": 3008,
          "name": "Manamune (Crystal Scar)"
@@ -756,7 +1065,8 @@
          "tags": [
             "Active",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3342,
          "name": "Scrying Orb (Trinket)",
@@ -767,7 +1077,8 @@
             "Active",
             "Jungle",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3341,
          "name": "Sweeping Lens (Trinket)",
@@ -779,16 +1090,21 @@
             "Jungle",
             "Lane",
             "Trinket",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 3340,
-         "name": "python (Trinket)",
+         "name": "Warding Totem (Trinket)",
          "group": "RelicBase"
       },
       "3156": {
          "tags": [
             "Damage",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3156,
          "name": "Maw of Malmortius"
@@ -800,7 +1116,11 @@
             "Damage",
             "LifeSteal",
             "NonbootsMovement",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3153,
          "name": "Blade of the Ruined King"
@@ -809,7 +1129,11 @@
          "tags": [
             "CooldownReduction",
             "SpellDamage",
-            "SpellVamp"
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3152,
          "name": "Will of the Ancients"
@@ -818,7 +1142,11 @@
          "tags": [
             "Health",
             "MagicPenetration",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3151,
          "name": "Liandry's Torment"
@@ -830,7 +1158,8 @@
             "CriticalStrike",
             "Damage",
             "LifeSteal",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR"
          ],
          "id": 3150,
          "name": "Mirage Blade"
@@ -840,7 +1169,9 @@
             "Active",
             "Damage",
             "NonbootsMovement",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "HA"
          ],
          "id": 3139,
          "name": "Mercurial Scimitar"
@@ -848,7 +1179,11 @@
       "3135": {
          "tags": [
             "MagicPenetration",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3135,
          "name": "Void Staff"
@@ -859,37 +1194,22 @@
             "AttackSpeed",
             "CooldownReduction",
             "NonbootsMovement",
-            "SpellBlock"
+            "SpellBlock",
+            "TT",
+            "CS"
          ],
          "id": 3137,
          "name": "Dervish Blade"
-      },
-      "3348": {
-         "tags": [
-            "Active",
-            "Stealth",
-            "Trinket",
-            "Vision"
-         ],
-         "id": 3348,
-         "name": "Hextech Sweeper",
-         "group": "RelicBase"
-      },
-      "3345": {
-         "tags": [
-            "Active",
-            "Trinket",
-            "Vision"
-         ],
-         "id": 3345,
-         "name": "Soul Anchor (Trinket)",
-         "group": "RelicBase"
       },
       "3001": {
          "tags": [
             "Aura",
             "SpellBlock",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3001,
          "name": "Abyssal Scepter"
@@ -899,7 +1219,11 @@
             "Active",
             "Armor",
             "Health",
-            "Slow"
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3143,
          "name": "Randuin's Omen"
@@ -912,7 +1236,11 @@
             "CooldownReduction",
             "CriticalStrike",
             "Damage",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3142,
          "name": "Youmuu's Ghostblade"
@@ -922,14 +1250,21 @@
             "CooldownReduction",
             "GoldPer",
             "Health",
-            "HealthRegen"
+            "HealthRegen",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3401,
          "name": "Face of the Mountain",
          "group": "GoldBase"
       },
       "3141": {
-         "tags": ["Damage"],
+         "tags": [
+            "Damage",
+            "SR"
+         ],
          "id": 3141,
          "name": "Sword of the Occult"
       },
@@ -940,7 +1275,11 @@
             "LifeSteal",
             "OnHit",
             "SpellDamage",
-            "SpellVamp"
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3124,
          "name": "Guinsoo's Rageblade"
@@ -951,7 +1290,8 @@
             "HealthRegen",
             "Mana",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "CS"
          ],
          "id": 3029,
          "name": "Rod of Ages (Crystal Scar)"
@@ -962,7 +1302,10 @@
             "HealthRegen",
             "Mana",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 3027,
          "name": "Rod of Ages"
@@ -973,7 +1316,11 @@
             "CooldownReduction",
             "Mana",
             "Slow",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3025,
          "name": "Iceborn Gauntlet"
@@ -981,7 +1328,9 @@
       "3026": {
          "tags": [
             "Armor",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "CS"
          ],
          "id": 3026,
          "name": "Guardian Angel"
@@ -991,7 +1340,8 @@
             "Armor",
             "HealthRegen",
             "NonbootsMovement",
-            "SpellBlock"
+            "SpellBlock",
+            "SR"
          ],
          "id": 3512,
          "name": "Zz'Rot Portal"
@@ -999,7 +1349,11 @@
       "3035": {
          "tags": [
             "ArmorPenetration",
-            "Damage"
+            "Damage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3035,
          "name": "Last Whisper"
@@ -1007,7 +1361,9 @@
       "3031": {
          "tags": [
             "CriticalStrike",
-            "Damage"
+            "Damage",
+            "SR",
+            "HA"
          ],
          "id": 3031,
          "name": "Infinity Edge"
@@ -1017,7 +1373,9 @@
             "Active",
             "CooldownReduction",
             "ManaRegen",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "HA"
          ],
          "id": 3222,
          "name": "Mikael's Crucible"
@@ -1027,7 +1385,8 @@
             "Bilgewater",
             "CooldownReduction",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3430,
          "name": "Rite of Ruin"
@@ -1037,7 +1396,11 @@
             "AttackSpeed",
             "CooldownReduction",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3115,
          "name": "Nashor's Tooth"
@@ -1047,7 +1410,8 @@
             "Bilgewater",
             "CooldownReduction",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3431,
          "name": "Netherstride Grimoire"
@@ -1056,7 +1420,11 @@
          "tags": [
             "Health",
             "Slow",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3116,
          "name": "Rylai's Crystal Scepter"
@@ -1066,7 +1434,11 @@
             "Damage",
             "Health",
             "OnHit",
-            "Slow"
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3022,
          "name": "Frozen Mallet"
@@ -1077,7 +1449,8 @@
             "CooldownReduction",
             "NonbootsMovement",
             "Slow",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3023,
          "name": "Twin Shadows"
@@ -1089,7 +1462,8 @@
             "Health",
             "HealthRegen",
             "NonbootsMovement",
-            "SpellBlock"
+            "SpellBlock",
+            "HA"
          ],
          "id": 2051,
          "name": "Guardian's Horn"
@@ -1099,7 +1473,8 @@
             "Bilgewater",
             "CooldownReduction",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR"
          ],
          "id": 3434,
          "name": "Pox Arcana"
@@ -1108,7 +1483,11 @@
          "tags": [
             "Health",
             "HealthRegen",
-            "Lane"
+            "Lane",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 1054,
          "name": "Doran's Shield"
@@ -1118,7 +1497,10 @@
             "Damage",
             "Health",
             "Lane",
-            "LifeSteal"
+            "LifeSteal",
+            "SR",
+            "TT",
+            "HA"
          ],
          "id": 1055,
          "name": "Doran's Blade"
@@ -1129,7 +1511,11 @@
             "Aura",
             "CooldownReduction",
             "Mana",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3050,
          "name": "Zeke's Harbinger"
@@ -1141,7 +1527,11 @@
             "CooldownReduction",
             "Health",
             "HealthRegen",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3190,
          "name": "Locket of the Iron Solari"
@@ -1150,7 +1540,10 @@
          "tags": [
             "Consumable",
             "Stealth",
-            "Vision"
+            "Vision",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 2047,
          "name": "Oracle's Extract"
@@ -1162,14 +1555,16 @@
             "CooldownReduction",
             "Health",
             "HealthRegen",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR"
          ],
          "id": 3056,
          "name": "Ohmwrecker"
       },
       "1341": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1341,
          "name": "Enchantment: Teleport",
@@ -1177,7 +1572,8 @@
       },
       "1340": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1340,
          "name": "Enchantment: Teleport",
@@ -1189,7 +1585,9 @@
             "HealthRegen",
             "Jungle",
             "ManaRegen",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT"
          ],
          "id": 1039,
          "name": "Hunter's Machete",
@@ -1197,7 +1595,8 @@
       },
       "1339": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1339,
          "name": "Enchantment: Teleport",
@@ -1209,7 +1608,9 @@
             "Damage",
             "Health",
             "NonbootsMovement",
-            "Slow"
+            "Slow",
+            "CS",
+            "HA"
          ],
          "id": 3184,
          "name": "Entropy"
@@ -1221,14 +1622,17 @@
             "Damage",
             "OnHit",
             "Stealth",
-            "Vision"
+            "Vision",
+            "CS",
+            "HA"
          ],
          "id": 3185,
          "name": "The Lightbringer"
       },
       "1335": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1335,
          "name": "Enchantment: Teleport",
@@ -1236,7 +1640,8 @@
       },
       "1336": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1336,
          "name": "Enchantment: Teleport",
@@ -1244,14 +1649,18 @@
       },
       "1337": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1337,
          "name": "Enchantment: Teleport",
          "group": "BootsTeleport"
       },
       "3041": {
-         "tags": ["SpellDamage"],
+         "tags": [
+            "SpellDamage",
+            "SR"
+         ],
          "id": 3041,
          "name": "Mejai's Soulstealer"
       },
@@ -1260,14 +1669,16 @@
             "Active",
             "Health",
             "Mana",
-            "SpellBlock"
+            "SpellBlock",
+            "CS"
          ],
          "id": 3180,
          "name": "Odyn's Veil"
       },
       "1338": {
          "tags": [
-            "Bilgewater"
+            "Bilgewater",
+            "SR"
          ],
          "id": 1338,
          "name": "Enchantment: Teleport",
@@ -1276,27 +1687,50 @@
       "3181": {
          "tags": [
             "Damage",
-            "LifeSteal"
+            "LifeSteal",
+            "TT",
+            "CS"
          ],
          "id": 3181,
          "name": "Sanguine Blade"
       },
       "1331": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1331,
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
       },
       "1332": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1332,
          "name": "Enchantment: Captain",
          "group": "BootsCaptain"
       },
       "1333": {
+         "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+         ],
          "id": 1333,
          "name": "Enchantment: Distortion",
          "group": "BootsDistortion"
       },
       "1334": {
+         "tags": [
+            "SR"
+         ],
          "id": 1334,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
@@ -1305,7 +1739,11 @@
          "tags": [
             "AttackSpeed",
             "CriticalStrike",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3046,
          "name": "Phantom Dancer"
@@ -1317,7 +1755,11 @@
             "GoldPer",
             "HealthRegen",
             "ManaRegen",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3069,
          "name": "Talisman of Ascension",
@@ -1330,7 +1772,11 @@
             "Damage",
             "Health",
             "NonbootsMovement",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3071,
          "name": "The Black Cleaver"
@@ -1340,7 +1786,11 @@
             "CooldownReduction",
             "ManaRegen",
             "SpellBlock",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3174,
          "name": "Athene's Unholy Grail"
@@ -1351,7 +1801,8 @@
             "CooldownReduction",
             "Damage",
             "NonbootsMovement",
-            "Tenacity"
+            "Tenacity",
+            "SR"
          ],
          "id": 3172,
          "name": "Zephyr"
@@ -1365,7 +1816,11 @@
             "Mana",
             "NonbootsMovement",
             "OnHit",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3078,
          "name": "Trinity Force"
@@ -1376,13 +1831,22 @@
             "Damage",
             "HealthRegen",
             "LifeSteal",
-            "OnHit"
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3074,
          "name": "Ravenous Hydra (Melee Only)"
       },
       "3075": {
-         "tags": ["Armor"],
+         "tags": [
+            "Armor",
+            "SR",
+            "CS",
+            "HA"
+         ],
          "id": 3075,
          "name": "Thornmail"
       },
@@ -1391,7 +1855,9 @@
             "Armor",
             "SpellBlock",
             "SpellDamage",
-            "Tenacity"
+            "Tenacity",
+            "TT",
+            "CS"
          ],
          "id": 3170,
          "name": "Moonflair Spellblade"
@@ -1399,7 +1865,9 @@
       "3072": {
          "tags": [
             "Damage",
-            "LifeSteal"
+            "LifeSteal",
+            "SR",
+            "HA"
          ],
          "id": 3072,
          "name": "The Bloodthirster"
@@ -1409,7 +1877,8 @@
             "AttackSpeed",
             "Bilgewater",
             "Damage",
-            "NonbootsMovement"
+            "NonbootsMovement",
+            "SR"
          ],
          "id": 3652,
          "name": "Typhoon Claws"
@@ -1420,7 +1889,10 @@
             "Consumable",
             "HealthRegen",
             "Lane",
-            "ManaRegen"
+            "ManaRegen",
+            "SR",
+            "TT",
+            "CS"
          ],
          "id": 2041,
          "name": "Crystalline Flask"
@@ -1429,7 +1901,8 @@
          "tags": [
             "Consumable",
             "Lane",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 2044,
          "name": "Stealth Ward",
@@ -1439,7 +1912,8 @@
          "tags": [
             "Active",
             "Health",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 2045,
          "name": "Ruby Sightstone"
@@ -1449,7 +1923,8 @@
             "Consumable",
             "Lane",
             "Stealth",
-            "Vision"
+            "Vision",
+            "SR"
          ],
          "id": 2043,
          "name": "Vision Ward",
@@ -1459,7 +1934,9 @@
          "tags": [
             "Active",
             "Armor",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "HA"
          ],
          "id": 3157,
          "name": "Zhonya's Hourglass"
@@ -1472,7 +1949,11 @@
             "Health",
             "HealthRegen",
             "SpellBlock",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3060,
          "name": "Banner of Command"
@@ -1481,7 +1962,11 @@
          "tags": [
             "CooldownReduction",
             "ManaRegen",
-            "SpellDamage"
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3165,
          "name": "Morellonomicon"
@@ -1491,7 +1976,11 @@
             "CooldownReduction",
             "Health",
             "HealthRegen",
-            "SpellBlock"
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3065,
          "name": "Spirit Visage"
@@ -1499,7 +1988,11 @@
       "3068": {
          "tags": [
             "Armor",
-            "Health"
+            "Health",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
          ],
          "id": 3068,
          "name": "Sunfire Cape"
