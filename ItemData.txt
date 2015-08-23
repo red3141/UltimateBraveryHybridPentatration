@@ -10,6 +10,31 @@
          "name": "Enchantment: Cinderhulk",
          "group": "JungleItems"
       },
+      "3053": {
+         "tags": [
+            "Health",
+            "Damage",
+            "SR",
+            "TT",
+            "HA",
+            "CS"
+         ],
+         "id": 3053,
+         "name": "Sterak's Gage"
+      },
+      "3748": {
+         "tags": [
+            "Health",
+            "Damage",
+            "HealthRegen",
+            "SR",
+            "TT",
+            "HA",
+            "CS"
+         ],
+         "id": 3748,
+         "name": "Titanic Hydra (Melee Only)"
+      },
       "3724": {
          "tags": [
             "CooldownReduction",
@@ -659,16 +684,6 @@
          "name": "Enchantment: Alacrity",
          "group": "BootsAlacrity"
       },
-      "1063": {
-         "tags": [
-            "Health",
-            "ManaRegen",
-            "SpellDamage",
-            "CS"
-         ],
-         "id": 1063,
-         "name": "Prospector's Ring"
-      },
       "1300": {
          "tags": [
             "SR",
@@ -679,16 +694,6 @@
          "id": 1300,
          "name": "Enchantment: Furor",
          "group": "BootsFuror"
-      },
-      "1062": {
-         "tags": [
-            "AttackSpeed",
-            "Damage",
-            "Health",
-            "CS"
-         ],
-         "id": 1062,
-         "name": "Prospector's Blade"
       },
       "1303": {
          "tags": [
@@ -730,19 +735,6 @@
          "id": 1304,
          "name": "Enchantment: Homeguard",
          "group": "BootsHomeguard"
-      },
-      "1056": {
-         "tags": [
-            "Health",
-            "Lane",
-            "ManaRegen",
-            "SpellDamage",
-            "SR",
-            "TT",
-            "HA"
-         ],
-         "id": 1056,
-         "name": "Doran's Ring"
       },
       "3110": {
          "tags": [
@@ -930,7 +922,7 @@
             "Active",
             "Trinket",
             "Vision",
-            "SR",
+            "SR"
          ],
          "id": 3363,
          "name": "Farsight Orb (Trinket)",
@@ -1455,19 +1447,6 @@
          "id": 3023,
          "name": "Twin Shadows"
       },
-      "2051": {
-         "tags": [
-            "Active",
-            "Armor",
-            "Health",
-            "HealthRegen",
-            "NonbootsMovement",
-            "SpellBlock",
-            "HA"
-         ],
-         "id": 2051,
-         "name": "Guardian's Horn"
-      },
       "3434": {
          "tags": [
             "Bilgewater",
@@ -1478,32 +1457,6 @@
          ],
          "id": 3434,
          "name": "Pox Arcana"
-      },
-      "1054": {
-         "tags": [
-            "Health",
-            "HealthRegen",
-            "Lane",
-            "SR",
-            "TT",
-            "CS",
-            "HA"
-         ],
-         "id": 1054,
-         "name": "Doran's Shield"
-      },
-      "1055": {
-         "tags": [
-            "Damage",
-            "Health",
-            "Lane",
-            "LifeSteal",
-            "SR",
-            "TT",
-            "HA"
-         ],
-         "id": 1055,
-         "name": "Doran's Blade"
       },
       "3050": {
          "tags": [
@@ -1882,20 +1835,6 @@
          ],
          "id": 3652,
          "name": "Typhoon Claws"
-      },
-      "2041": {
-         "tags": [
-            "Active",
-            "Consumable",
-            "HealthRegen",
-            "Lane",
-            "ManaRegen",
-            "SR",
-            "TT",
-            "CS"
-         ],
-         "id": 2041,
-         "name": "Crystalline Flask"
       },
       "2044": {
          "tags": [

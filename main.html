@@ -1,23 +1,48 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <b>Select a Map:</b>
+    <br/>
+    <input type="radio" name="map" value="SR" checked />Summoner's Rift
+    <br/>
+    <input type="radio" name="map" value="HA" />Howling Abyss
+    <br/>
+    <input type="radio" name="map" value="TT" />Twisted Treeline
+    <br/>
+    <input type="radio" name="map" value="CS" />Crystal Scar
+    <br/>
+    <br/>
+
+    <b>Click this button:</b>
+    <br/>    
     <a id="mainButton"><button type="button">Ultimate Bravery Go!</button></a>
     <script type="text/javascript" src="ItemDataJS.txt"></script>
     <script>
 window.onload = function() {
-    items = JSON.parse(data);
     document.getElementById("mainButton").onclick = function() {
-        var srItems = filter(items, "SR", false);
-        //this.href = "data:text/json;charset=utf-8," + encodeURIComponent('{"map": "any", "blocks": [{"showIfSummonerSpell": "", "items": [{"count": 1, "id": "1056"}, {"count": 2, "id": "2003"}, {"count": 1, "id": "3340"}], "hideIfSummonerSpell": "", "recMath": false, "minSummonerLevel": -1, "maxSummonerLevel": -1, "type": "Starting Items"}, {"showIfSummonerSpell": "", "items": [{"count": 1, "id": "1300"}], "hideIfSummonerSpell": "", "recMath": false, "minSummonerLevel": -1, "maxSummonerLevel": -1, "type": "Boots"}, {"showIfSummonerSpell": "", "items": [{"count": 1, "id": "1300"}, {"count": 1, "id": "3285"}, {"count": 1, "id": "3285"}, {"count": 1, "id": "3286"}, {"count": 1, "id": "3508"}, {"count": 1, "id": "3003"}], "hideIfSummonerSpell": "", "recMath": false, "minSummonerLevel": -1, "maxSummonerLevel": -1, "type": "Items"}, {"showIfSummonerSpell": "", "items": [{"count": 1, "id": "2003"}, {"count": 1, "id": "2004"}, {"count": 1, "id": "2044"}, {"count": 1, "id": "2043"}, {"count": 1, "id": "2137"}], "hideIfSummonerSpell": "", "recMath": false, "minSummonerLevel": -1, "maxSummonerLevel": -1, "type": "Consumables"}], "title": "Ultimate Bravery", "priority": false, "mode": "any", "type": "custom", "sortrank": 0}');
-        this.href = "data:text/json;charset=utf-8," + encodeURIComponent(String(srItems));
+        var items = JSON.parse(data);
+        items = filter(items, document.querySelector('input[name="map"]:checked').value, false);
+        items = filter(items, "Trinket", true);
+        items = filter(items, "Consumable", true);
+        var itemSet = '{"title":"Ultimate Bravery","type":"custom","map":"any","mode":"any","priority":false,"sortrank":0,"blocks":[{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[';
+        var itemKeys = Object.keys(items);
+        for (var i = 0; i < 5; ++i) {
+          var itemKey = itemKeys[itemKeys.length * Math.random() << 0];
+          itemSet += '{"id":' + itemKey + ',"count":1}' + (i == 4 ? '' : ',')
+        }
+        // Close block.
+        itemSet += ']}';
+        // Close item set.
+        itemSet += ']}';
+        this.href = "data:text/json;charset=utf-8," + encodeURIComponent(itemSet);
     }
 }
 
 var filter = function(itemSet, tag, negate) {
     var newItems = {};
     for (itemId in itemSet) {
-        if ((!negate && itemSet[itemId][tags].indexOf(tag) > -1) ||
-            (negate && itemSet[itemId][tags].indexOf(tag) == -1)) {
+        if ((!negate && itemSet[itemId]["tags"].indexOf(tag) > -1) ||
+            (negate && itemSet[itemId]["tags"].indexOf(tag) == -1)) {
             newItems[itemId] = itemSet[itemId];
         }
     }
