@@ -13,7 +13,9 @@
     <br/>
     <br/>
 
-    <b>Click this button:</b>
+    <b>Click the button below.<br/>
+       Save the result in C:/Riot Games/League of Legends/Config/Global/Recommended/ultimateBravery.json<br/>
+       The item set will be available in League; it will be called "Ultimate Bravery".</b>
     <br/>    
     <a id="mainButton"><button type="button">Ultimate Bravery Go!</button></a>
     <script type="text/javascript" src="ItemDataJS.txt"></script>
@@ -21,14 +23,43 @@
 window.onload = function() {
     document.getElementById("mainButton").onclick = function() {
         var items = JSON.parse(data);
+        var numberOfItemsToGet = 5;
         items = filter(items, document.querySelector('input[name="map"]:checked').value, false);
+        items = filter(items, "Bilgewater", true);
+        var itemSet = '{"title":"Ultimate Bravery","type":"custom","map":"any","mode":"any","priority":false,"sortrank":0,"blocks":[';
+
+        // TRINKET
+
+        var trinkets = filter(items, "Trinket", false);
+        var trinketKeys = Object.keys(trinkets);
+        if (trinketKeys.length > 0) {
+          itemSet += '{"type":"Trinket","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[{"id":"';
+          itemSet += trinketKeys[trinketKeys.length * Math.random() << 0];
+          itemSet += '","count":1}]},';
+        }
         items = filter(items, "Trinket", true);
         items = filter(items, "Consumable", true);
-        var itemSet = '{"title":"Ultimate Bravery","type":"custom","map":"any","mode":"any","priority":false,"sortrank":0,"blocks":[{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[';
+
+        // BOOTS
+
+        var boots = filter(items, "Boots", false);
+        var bootKeys = Object.keys(boots);
+        if (bootKeys.length == 0) {
+          numberOfItemsToGet++;
+        } else {
+          itemSet += '{"type":"Boots","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[{"id":"';
+          itemSet += bootKeys[bootKeys.length * Math.random() << 0];
+          itemSet += '","count":1}]},';
+        }
+        items = filter(items, "Boots", true);
+
+        // ITEMS
+
+        itemSet += '{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[';
         var itemKeys = Object.keys(items);
-        for (var i = 0; i < 5; ++i) {
+        for (var i = 0; i < numberOfItemsToGet; ++i) {
           var itemKey = itemKeys[itemKeys.length * Math.random() << 0];
-          itemSet += '{"id":' + itemKey + ',"count":1}' + (i == 4 ? '' : ',')
+          itemSet += '{"id":"' + itemKey + '","count":1}' + (i == numberOfItemsToGet - 1 ? '' : ',')
         }
         // Close block.
         itemSet += ']}';
