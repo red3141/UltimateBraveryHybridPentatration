@@ -1,0 +1,1932 @@
+{
+    "1300": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1300,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1301": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1301,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1302": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1302,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1303": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1303,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1304": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1304,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1305": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1305,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1306": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1306,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1307": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1307,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1308": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1308,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1309": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1309,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1310": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1310,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1311": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1311,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1312": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1312,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1313": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1313,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1314": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1314,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1315": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1315,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1316": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1316,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1317": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1317,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1318": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1318,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1319": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1319,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1320": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1320,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1321": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1321,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1322": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1322,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1323": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1323,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1324": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1324,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1325": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1325,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1326": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1326,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1327": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1327,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1328": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1328,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1329": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1329,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1330": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1330,
+        "name": "Enchantment:Furor",
+        "group": "BootsFuror"
+    },
+    "1331": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1331,
+        "name": "Enchantment:Alacrity",
+        "group": "BootsAlacrity"
+    },
+    "1332": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1332,
+        "name": "Enchantment:Captain",
+        "group": "BootsCaptain"
+    },
+    "1333": {
+        "tags": [
+            "SR",
+            "TT",
+            "CS",
+            "HA",
+            "Boots"
+        ],
+        "id": 1333,
+        "name": "Enchantment:Distortion",
+        "group": "BootsDistortion"
+    },
+    "1334": {
+        "tags": [
+            "SR",
+            "Boots"
+        ],
+        "id": 1334,
+        "name": "Enchantment:Homeguard",
+        "group": "BootsHomeguard"
+    },
+    "1335": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1335,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1336": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1336,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1337": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1337,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1338": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1338,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1339": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1339,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1340": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1340,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "1341": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 1341,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "2003": {
+        "tags": [
+            "Consumable",
+            "Jungle",
+            "Lane",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 2003,
+        "name": "HealthPotion",
+        "group": "HealthPotion"
+    },
+    "2004": {
+        "tags": [
+            "Consumable",
+            "Lane",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 2004,
+        "name": "ManaPotion",
+        "group": "ManaPotion"
+    },
+    "2043": {
+        "tags": [
+            "Consumable",
+            "Lane",
+            "Stealth",
+            "Vision",
+            "SR"
+        ],
+        "id": 2043,
+        "name": "VisionWard",
+        "group": "PinkWards"
+    },
+    "2044": {
+        "tags": [
+            "Consumable",
+            "Lane",
+            "Vision",
+            "SR"
+        ],
+        "id": 2044,
+        "name": "StealthWard",
+        "group": "GreenWards"
+    },
+    "2045": {
+        "tags": [
+            "Active",
+            "Health",
+            "Vision",
+            "SR"
+        ],
+        "id": 2045,
+        "name": "RubySightstone"
+    },
+    "2047": {
+        "tags": [
+            "Consumable",
+            "Stealth",
+            "Vision",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 2047,
+        "name": "Oracle'sExtract"
+    },
+    "2137": {
+        "tags": [
+            "Consumable",
+            "Health",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 2137,
+        "name": "ElixirofRuin",
+        "group": "Flasks"
+    },
+    "2138": {
+        "tags": [
+            "Consumable",
+            "NonbootsMovement",
+            "Tenacity",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 2138,
+        "name": "ElixirofIron",
+        "group": "Flasks"
+    },
+    "2139": {
+        "tags": [
+            "Consumable",
+            "ManaRegen",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 2139,
+        "name": "ElixirofSorcery",
+        "group": "Flasks"
+    },
+    "2140": {
+        "tags": [
+            "Consumable",
+            "Damage",
+            "LifeSteal",
+            "SpellVamp",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 2140,
+        "name": "ElixirofWrath",
+        "group": "Flasks"
+    },
+    "3001": {
+        "tags": [
+            "Aura",
+            "SpellBlock",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3001,
+        "name": "AbyssalScepter"
+    },
+    "3003": {
+        "tags": [
+            "Mana",
+            "ManaRegen",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 3003,
+        "name": "Archangel'sStaff"
+    },
+    "3004": {
+        "tags": [
+            "Damage",
+            "Mana",
+            "ManaRegen",
+            "OnHit",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 3004,
+        "name": "Manamune"
+    },
+    "3007": {
+        "tags": [
+            "Mana",
+            "ManaRegen",
+            "SpellDamage",
+            "CS"
+        ],
+        "id": 3007,
+        "name": "Archangel'sStaff(CrystalScar)"
+    },
+    "3008": {
+        "tags": [
+            "Damage",
+            "Mana",
+            "ManaRegen",
+            "OnHit",
+            "CS"
+        ],
+        "id": 3008,
+        "name": "Manamune(CrystalScar)"
+    },
+    "3022": {
+        "tags": [
+            "Damage",
+            "Health",
+            "OnHit",
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3022,
+        "name": "FrozenMallet"
+    },
+    "3023": {
+        "tags": [
+            "Active",
+            "CooldownReduction",
+            "NonbootsMovement",
+            "Slow",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3023,
+        "name": "TwinShadows"
+    },
+    "3025": {
+        "tags": [
+            "Armor",
+            "CooldownReduction",
+            "Mana",
+            "Slow",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3025,
+        "name": "IcebornGauntlet"
+    },
+    "3026": {
+        "tags": [
+            "Armor",
+            "SpellBlock",
+            "SR",
+            "CS"
+        ],
+        "id": 3026,
+        "name": "GuardianAngel"
+    },
+    "3027": {
+        "tags": [
+            "Health",
+            "HealthRegen",
+            "Mana",
+            "ManaRegen",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 3027,
+        "name": "RodofAges"
+    },
+    "3029": {
+        "tags": [
+            "Health",
+            "HealthRegen",
+            "Mana",
+            "ManaRegen",
+            "SpellDamage",
+            "CS"
+        ],
+        "id": 3029,
+        "name": "RodofAges(CrystalScar)"
+    },
+    "3031": {
+        "tags": [
+            "CriticalStrike",
+            "Damage",
+            "SR",
+            "HA"
+        ],
+        "id": 3031,
+        "name": "InfinityEdge"
+    },
+    "3035": {
+        "tags": [
+            "ArmorPenetration",
+            "Damage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3035,
+        "name": "LastWhisper"
+    },
+    "3041": {
+        "tags": [
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3041,
+        "name": "Mejai'sSoulstealer"
+    },
+    "3046": {
+        "tags": [
+            "AttackSpeed",
+            "CriticalStrike",
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3046,
+        "name": "PhantomDancer"
+    },
+    "3050": {
+        "tags": [
+            "Armor",
+            "Aura",
+            "CooldownReduction",
+            "Mana",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3050,
+        "name": "Zeke'sHarbinger"
+    },
+    "3053": {
+        "tags": [
+            "Health",
+            "Damage",
+            "SR",
+            "TT",
+            "HA",
+            "CS"
+        ],
+        "id": 3053,
+        "name": "Sterak'sGage"
+    },
+    "3056": {
+        "tags": [
+            "Active",
+            "Armor",
+            "CooldownReduction",
+            "Health",
+            "HealthRegen",
+            "NonbootsMovement",
+            "SR"
+        ],
+        "id": 3056,
+        "name": "Ohmwrecker"
+    },
+    "3060": {
+        "tags": [
+            "Active",
+            "Aura",
+            "CooldownReduction",
+            "Health",
+            "HealthRegen",
+            "SpellBlock",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3060,
+        "name": "BannerofCommand"
+    },
+    "3065": {
+        "tags": [
+            "CooldownReduction",
+            "Health",
+            "HealthRegen",
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3065,
+        "name": "SpiritVisage"
+    },
+    "3068": {
+        "tags": [
+            "Armor",
+            "Health",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3068,
+        "name": "SunfireCape"
+    },
+    "3069": {
+        "tags": [
+            "Active",
+            "CooldownReduction",
+            "GoldPer",
+            "HealthRegen",
+            "ManaRegen",
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3069,
+        "name": "TalismanofAscension",
+        "group": "GoldBase"
+    },
+    "3071": {
+        "tags": [
+            "ArmorPenetration",
+            "CooldownReduction",
+            "Damage",
+            "Health",
+            "NonbootsMovement",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3071,
+        "name": "TheBlackCleaver"
+    },
+    "3072": {
+        "tags": [
+            "Damage",
+            "LifeSteal",
+            "SR",
+            "HA"
+        ],
+        "id": 3072,
+        "name": "TheBloodthirster"
+    },
+    "3074": {
+        "tags": [
+            "Active",
+            "Damage",
+            "HealthRegen",
+            "LifeSteal",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3074,
+        "name": "RavenousHydra(MeleeOnly)"
+    },
+    "3075": {
+        "tags": [
+            "Armor",
+            "SR",
+            "CS",
+            "HA"
+        ],
+        "id": 3075,
+        "name": "Thornmail"
+    },
+    "3078": {
+        "tags": [
+            "AttackSpeed",
+            "CriticalStrike",
+            "Damage",
+            "Health",
+            "Mana",
+            "NonbootsMovement",
+            "OnHit",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3078,
+        "name": "TrinityForce"
+    },
+    "3083": {
+        "tags": [
+            "Health",
+            "HealthRegen",
+            "SR",
+            "HA"
+        ],
+        "id": 3083,
+        "name": "Warmog'sArmor"
+    },
+    "3084": {
+        "tags": [
+            "Health",
+            "HealthRegen",
+            "TT",
+            "CS"
+        ],
+        "id": 3084,
+        "name": "Overlord'sBloodmail"
+    },
+    "3085": {
+        "tags": [
+            "AttackSpeed",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3085,
+        "name": "Runaan'sHurricane(RangedOnly)"
+    },
+    "3087": {
+        "tags": [
+            "AttackSpeed",
+            "CriticalStrike",
+            "NonbootsMovement",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3087,
+        "name": "StatikkShiv"
+    },
+    "3089": {
+        "tags": [
+            "SpellDamage",
+            "SR",
+            "HA"
+        ],
+        "id": 3089,
+        "name": "Rabadon'sDeathcap"
+    },
+    "3090": {
+        "tags": [
+            "Active",
+            "Armor",
+            "SpellDamage",
+            "TT",
+            "CS"
+        ],
+        "id": 3090,
+        "name": "Wooglet'sWitchcap"
+    },
+    "3091": {
+        "tags": [
+            "AttackSpeed",
+            "OnHit",
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3091,
+        "name": "Wit'sEnd"
+    },
+    "3092": {
+        "tags": [
+            "Active",
+            "CooldownReduction",
+            "GoldPer",
+            "ManaRegen",
+            "Slow",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3092,
+        "name": "FrostQueen'sClaim",
+        "group": "GoldBase"
+    },
+    "3100": {
+        "tags": [
+            "Mana",
+            "NonbootsMovement",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3100,
+        "name": "LichBane"
+    },
+    "3102": {
+        "tags": [
+            "Health",
+            "HealthRegen",
+            "SpellBlock",
+            "SR",
+            "TT",
+            "HA"
+        ],
+        "id": 3102,
+        "name": "Banshee'sVeil"
+    },
+    "3104": {
+        "tags": [
+            "CriticalStrike",
+            "Damage",
+            "TT",
+            "CS"
+        ],
+        "id": 3104,
+        "name": "LordVanDamm'sPillager"
+    },
+    "3110": {
+        "tags": [
+            "Armor",
+            "Aura",
+            "CooldownReduction",
+            "Mana",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3110,
+        "name": "FrozenHeart"
+    },
+    "3112": {
+        "tags": [
+            "HealthRegen",
+            "SpellBlock",
+            "HA"
+        ],
+        "id": 3112,
+        "name": "OrbofWinter"
+    },
+    "3115": {
+        "tags": [
+            "AttackSpeed",
+            "CooldownReduction",
+            "OnHit",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3115,
+        "name": "Nashor'sTooth"
+    },
+    "3116": {
+        "tags": [
+            "Health",
+            "Slow",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3116,
+        "name": "Rylai'sCrystalScepter"
+    },
+    "3124": {
+        "tags": [
+            "AttackSpeed",
+            "Damage",
+            "LifeSteal",
+            "OnHit",
+            "SpellDamage",
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3124,
+        "name": "Guinsoo'sRageblade"
+    },
+    "3135": {
+        "tags": [
+            "MagicPenetration",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3135,
+        "name": "VoidStaff"
+    },
+    "3137": {
+        "tags": [
+            "Active",
+            "AttackSpeed",
+            "CooldownReduction",
+            "NonbootsMovement",
+            "SpellBlock",
+            "TT",
+            "CS"
+        ],
+        "id": 3137,
+        "name": "DervishBlade"
+    },
+    "3139": {
+        "tags": [
+            "Active",
+            "Damage",
+            "NonbootsMovement",
+            "SpellBlock",
+            "SR",
+            "HA"
+        ],
+        "id": 3139,
+        "name": "MercurialScimitar"
+    },
+    "3141": {
+        "tags": [
+            "Damage",
+            "SR"
+        ],
+        "id": 3141,
+        "name": "SwordoftheOccult"
+    },
+    "3142": {
+        "tags": [
+            "Active",
+            "ArmorPenetration",
+            "AttackSpeed",
+            "CooldownReduction",
+            "CriticalStrike",
+            "Damage",
+            "NonbootsMovement",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3142,
+        "name": "Youmuu'sGhostblade"
+    },
+    "3143": {
+        "tags": [
+            "Active",
+            "Armor",
+            "Health",
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3143,
+        "name": "Randuin'sOmen"
+    },
+    "3146": {
+        "tags": [
+            "Active",
+            "Damage",
+            "LifeSteal",
+            "Slow",
+            "SpellDamage",
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3146,
+        "name": "HextechGunblade"
+    },
+    "3150": {
+        "tags": [
+            "Active",
+            "Bilgewater",
+            "CriticalStrike",
+            "Damage",
+            "LifeSteal",
+            "NonbootsMovement",
+            "SR"
+        ],
+        "id": 3150,
+        "name": "MirageBlade"
+    },
+    "3151": {
+        "tags": [
+            "Health",
+            "MagicPenetration",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3151,
+        "name": "Liandry'sTorment"
+    },
+    "3152": {
+        "tags": [
+            "CooldownReduction",
+            "SpellDamage",
+            "SpellVamp",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3152,
+        "name": "WilloftheAncients"
+    },
+    "3153": {
+        "tags": [
+            "Active",
+            "AttackSpeed",
+            "Damage",
+            "LifeSteal",
+            "NonbootsMovement",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3153,
+        "name": "BladeoftheRuinedKing"
+    },
+    "3156": {
+        "tags": [
+            "Damage",
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3156,
+        "name": "MawofMalmortius"
+    },
+    "3157": {
+        "tags": [
+            "Active",
+            "Armor",
+            "SpellDamage",
+            "SR",
+            "HA"
+        ],
+        "id": 3157,
+        "name": "Zhonya'sHourglass"
+    },
+    "3165": {
+        "tags": [
+            "CooldownReduction",
+            "ManaRegen",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3165,
+        "name": "Morellonomicon"
+    },
+    "3170": {
+        "tags": [
+            "Armor",
+            "SpellBlock",
+            "SpellDamage",
+            "Tenacity",
+            "TT",
+            "CS"
+        ],
+        "id": 3170,
+        "name": "MoonflairSpellblade"
+    },
+    "3172": {
+        "tags": [
+            "AttackSpeed",
+            "CooldownReduction",
+            "Damage",
+            "NonbootsMovement",
+            "Tenacity",
+            "SR"
+        ],
+        "id": 3172,
+        "name": "Zephyr"
+    },
+    "3174": {
+        "tags": [
+            "CooldownReduction",
+            "ManaRegen",
+            "SpellBlock",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3174,
+        "name": "Athene'sUnholyGrail"
+    },
+    "3180": {
+        "tags": [
+            "Active",
+            "Health",
+            "Mana",
+            "SpellBlock",
+            "CS"
+        ],
+        "id": 3180,
+        "name": "Odyn'sVeil"
+    },
+    "3181": {
+        "tags": [
+            "Damage",
+            "LifeSteal",
+            "TT",
+            "CS"
+        ],
+        "id": 3181,
+        "name": "SanguineBlade"
+    },
+    "3184": {
+        "tags": [
+            "Active",
+            "Damage",
+            "Health",
+            "NonbootsMovement",
+            "Slow",
+            "CS",
+            "HA"
+        ],
+        "id": 3184,
+        "name": "Entropy"
+    },
+    "3185": {
+        "tags": [
+            "Active",
+            "CriticalStrike",
+            "Damage",
+            "OnHit",
+            "Stealth",
+            "Vision",
+            "CS",
+            "HA"
+        ],
+        "id": 3185,
+        "name": "TheLightbringer"
+    },
+    "3190": {
+        "tags": [
+            "Active",
+            "Aura",
+            "CooldownReduction",
+            "Health",
+            "HealthRegen",
+            "SpellBlock",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3190,
+        "name": "LocketoftheIronSolari"
+    },
+    "3222": {
+        "tags": [
+            "Active",
+            "CooldownReduction",
+            "ManaRegen",
+            "SpellBlock",
+            "SR",
+            "HA"
+        ],
+        "id": 3222,
+        "name": "Mikael'sCrucible"
+    },
+    "3245": {
+        "tags": [
+            "Bilgewater",
+            "SR",
+            "Boots"
+        ],
+        "id": 3245,
+        "name": "Enchantment:Teleport",
+        "group": "BootsTeleport"
+    },
+    "3285": {
+        "tags": [
+            "NonbootsMovement",
+            "OnHit",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3285,
+        "name": "Luden'sEcho"
+    },
+    "3290": {
+        "tags": [
+            "Active",
+            "CooldownReduction",
+            "NonbootsMovement",
+            "Slow",
+            "SpellDamage",
+            "Stealth",
+            "Vision",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3290,
+        "name": "TwinShadows(CrystalScar)"
+    },
+    "3361": {
+        "tags": [
+            "Active",
+            "Trinket",
+            "Vision",
+            "SR"
+        ],
+        "id": 3361,
+        "name": "GreaterStealthTotem(Trinket)",
+        "group": "RelicBase"
+    },
+    "3362": {
+        "tags": [
+            "Active",
+            "Trinket",
+            "Vision",
+            "SR"
+        ],
+        "id": 3362,
+        "name": "GreaterVisionTotem(Trinket)",
+        "group": "RelicBase"
+    },
+    "3363": {
+        "tags": [
+            "Active",
+            "Trinket",
+            "Vision",
+            "SR"
+        ],
+        "id": 3363,
+        "name": "FarsightOrb(Trinket)",
+        "group": "RelicBase"
+    },
+    "3364": {
+        "tags": [
+            "Active",
+            "Trinket",
+            "Vision",
+            "SR"
+        ],
+        "id": 3364,
+        "name": "Oracle'sLens(Trinket)",
+        "group": "RelicBase"
+    },
+    "3401": {
+        "tags": [
+            "CooldownReduction",
+            "GoldPer",
+            "Health",
+            "HealthRegen",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3401,
+        "name": "FaceoftheMountain",
+        "group": "GoldBase"
+    },
+    "3430": {
+        "tags": [
+            "Bilgewater",
+            "CooldownReduction",
+            "OnHit",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3430,
+        "name": "RiteofRuin"
+    },
+    "3431": {
+        "tags": [
+            "Bilgewater",
+            "CooldownReduction",
+            "OnHit",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3431,
+        "name": "NetherstrideGrimoire"
+    },
+    "3434": {
+        "tags": [
+            "Bilgewater",
+            "CooldownReduction",
+            "OnHit",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3434,
+        "name": "PoxArcana"
+    },
+    "3504": {
+        "tags": [
+            "CooldownReduction",
+            "ManaRegen",
+            "NonbootsMovement",
+            "SpellDamage",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3504,
+        "name": "ArdentCenser"
+    },
+    "3508": {
+        "tags": [
+            "CooldownReduction",
+            "Damage",
+            "LifeSteal",
+            "ManaRegen",
+            "SR",
+            "HA"
+        ],
+        "id": 3508,
+        "name": "EssenceReaver"
+    },
+    "3512": {
+        "tags": [
+            "Armor",
+            "HealthRegen",
+            "NonbootsMovement",
+            "SpellBlock",
+            "SR"
+        ],
+        "id": 3512,
+        "name": "Zz'RotPortal"
+    },
+    "3652": {
+        "tags": [
+            "AttackSpeed",
+            "Bilgewater",
+            "Damage",
+            "NonbootsMovement",
+            "SR"
+        ],
+        "id": 3652,
+        "name": "TyphoonClaws"
+    },
+    "3707": {
+        "tags": [
+            "ArmorPenetration",
+            "CooldownReduction",
+            "Damage",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3707,
+        "name": "Enchantment:Warrior",
+        "group": "JungleItems"
+    },
+    "3708": {
+        "tags": [
+            "CooldownReduction",
+            "Jungle",
+            "Mana",
+            "SpellDamage",
+            "SR",
+            "TT"
+        ],
+        "id": 3708,
+        "name": "Enchantment:Runeglaive",
+        "group": "JungleItems"
+    },
+    "3709": {
+        "tags": [
+            "Health",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3709,
+        "name": "Enchantment:Cinderhulk",
+        "group": "JungleItems"
+    },
+    "3710": {
+        "tags": [
+            "AttackSpeed",
+            "Damage",
+            "Jungle",
+            "OnHit",
+            "SR",
+            "TT"
+        ],
+        "id": 3710,
+        "name": "Enchantment:Devourer",
+        "group": "JungleItems"
+    },
+    "3714": {
+        "tags": [
+            "ArmorPenetration",
+            "CooldownReduction",
+            "Damage",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3714,
+        "name": "Enchantment:Warrior",
+        "group": "JungleItems"
+    },
+    "3716": {
+        "tags": [
+            "CooldownReduction",
+            "Jungle",
+            "Mana",
+            "SpellDamage",
+            "SR",
+            "TT"
+        ],
+        "id": 3716,
+        "name": "Enchantment:Runeglaive",
+        "group": "JungleItems"
+    },
+    "3717": {
+        "tags": [
+            "Health",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3717,
+        "name": "Enchantment:Cinderhulk",
+        "group": "JungleItems"
+    },
+    "3718": {
+        "tags": [
+            "AttackSpeed",
+            "Damage",
+            "Jungle",
+            "OnHit",
+            "SR",
+            "TT"
+        ],
+        "id": 3718,
+        "name": "Enchantment:Devourer",
+        "group": "JungleItems"
+    },
+    "3719": {
+        "tags": [
+            "ArmorPenetration",
+            "CooldownReduction",
+            "Damage",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3719,
+        "name": "Enchantment:Warrior",
+        "group": "JungleItems"
+    },
+    "3720": {
+        "tags": [
+            "CooldownReduction",
+            "Jungle",
+            "Mana",
+            "SpellDamage",
+            "SR",
+            "TT"
+        ],
+        "id": 3720,
+        "name": "Enchantment:Runeglaive",
+        "group": "JungleItems"
+    },
+    "3721": {
+        "tags": [
+            "Health",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3721,
+        "name": "Enchantment:Cinderhulk",
+        "group": "JungleItems"
+    },
+    "3722": {
+        "tags": [
+            "AttackSpeed",
+            "Damage",
+            "Jungle",
+            "OnHit",
+            "SR",
+            "TT"
+        ],
+        "id": 3722,
+        "name": "Enchantment:Devourer",
+        "group": "JungleItems"
+    },
+    "3723": {
+        "tags": [
+            "ArmorPenetration",
+            "CooldownReduction",
+            "Damage",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3723,
+        "name": "Enchantment:Warrior",
+        "group": "JungleItems"
+    },
+    "3724": {
+        "tags": [
+            "CooldownReduction",
+            "Jungle",
+            "Mana",
+            "SpellDamage",
+            "SR",
+            "TT"
+        ],
+        "id": 3724,
+        "name": "Enchantment:Runeglaive",
+        "group": "JungleItems"
+    },
+    "3725": {
+        "tags": [
+            "Health",
+            "Jungle",
+            "SR",
+            "TT"
+        ],
+        "id": 3725,
+        "name": "Enchantment:Cinderhulk",
+        "group": "JungleItems"
+    },
+    "3726": {
+        "tags": [
+            "AttackSpeed",
+            "Damage",
+            "Jungle",
+            "OnHit",
+            "SR",
+            "TT"
+        ],
+        "id": 3726,
+        "name": "Enchantment:Devourer",
+        "group": "JungleItems"
+    },
+    "3742": {
+        "tags": [
+            "Armor",
+            "Health",
+            "NonbootsMovement",
+            "OnHit",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3742,
+        "name": "DeadMan'sPlate"
+    },
+    "3744": {
+        "tags": [
+            "Active",
+            "Bilgewater",
+            "CooldownReduction",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3744,
+        "name": "StaffofFlowingWater"
+    },
+    "3745": {
+        "tags": [
+            "Active",
+            "Bilgewater",
+            "CooldownReduction",
+            "Health",
+            "ManaRegen",
+            "OnHit",
+            "SpellBlock",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3745,
+        "name": "Puppeteer"
+    },
+    "3748": {
+        "tags": [
+            "Health",
+            "Damage",
+            "HealthRegen",
+            "SR",
+            "TT",
+            "HA",
+            "CS"
+        ],
+        "id": 3748,
+        "name": "TitanicHydra(MeleeOnly)"
+    },
+    "3800": {
+        "tags": [
+            "Active",
+            "Health",
+            "HealthRegen",
+            "Mana",
+            "NonbootsMovement",
+            "Slow",
+            "SR",
+            "TT",
+            "CS",
+            "HA"
+        ],
+        "id": 3800,
+        "name": "RighteousGlory"
+    },
+    "3829": {
+        "tags": [
+            "Active",
+            "Bilgewater",
+            "Health",
+            "MagicPenetration",
+            "NonbootsMovement",
+            "SpellDamage",
+            "SR"
+        ],
+        "id": 3829,
+        "name": "Trickster'sGlass"
+    },
+    "3840": {
+        "tags": [
+            "Bilgewater",
+            "CooldownReduction",
+            "GoldPer",
+            "ManaRegen",
+            "SR"
+        ],
+        "id": 3840,
+        "name": "GlobeofTrust",
+        "group": "GoldBase"
+    },
+    "3911": {
+        "tags": [
+            "Bilgewater",
+            "CooldownReduction",
+            "Health",
+            "HealthRegen",
+            "SR"
+        ],
+        "id": 3911,
+        "name": "Martyr'sGambit"
+    },
+    "3924": {
+        "tags": [
+            "Active",
+            "Bilgewater",
+            "Damage",
+            "LifeSteal",
+            "SR"
+        ],
+        "id": 3924,
+        "name": "Flesheater(MeleeOnly)"
+    }
+}

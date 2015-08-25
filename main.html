@@ -24,7 +24,8 @@ window.onload = function() {
     document.getElementById("mainButton").onclick = function() {
         var items = JSON.parse(data);
         var numberOfItemsToGet = 5;
-        items = filter(items, document.querySelector('input[name="map"]:checked').value, false);
+        var map = document.querySelector('input[name="map"]:checked').value;
+        items = filter(items, map, false);
         items = filter(items, "Bilgewater", true);
         var itemSet = '{"title":"Ultimate Bravery","type":"custom","map":"any","mode":"any","priority":false,"sortrank":0,"blocks":[';
 
@@ -53,16 +54,69 @@ window.onload = function() {
         }
         items = filter(items, "Boots", true);
 
-        // ITEMS
+        // JUNGLE ITEMS
 
-        itemSet += '{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[';
+        if (map != "HA" && map != "CS") {
+          itemSet += '{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"SummonerSmite","hideIfSummonerSpell":"","items":[';
+
+          // JUNGLE ITEM
+          numberOfItemsToGet--;
+          var jungleItems = filter(items, "Jungle", false);
+          var jungleItemKeys = Object.keys(jungleItems);
+          itemSet += '{"id":"' + jungleItemKeys[jungleItemKeys.length * Math.random() << 0] + '","count":1},';
+          items = filter(items, "Jungle", true);
+
+          // OTHER ITEMS
+          var itemKeys = Object.keys(items);
+          var groups = [];
+          for (var i = 0; i < numberOfItemsToGet; ++i) {
+            var itemKey = itemKeys[itemKeys.length * Math.random() << 0];
+            if (items[itemKey].group && groups.indexOf(items[itemKey].group) > -1) {
+              // Skip this item and try again.
+              delete items[itemKey];
+              --i;
+            }
+            itemSet += '{"id":"' + itemKey + '","count":1}' + (i == numberOfItemsToGet - 1 ? '' : ',')
+            if (items[itemKey].group) {
+              groups.push(items[itemKey].group);
+            }
+          }
+          // Close block.
+          itemSet += ']},';
+        }
+
+        // NON JUNGLE ITEMS
+        // Reset items
+        items = JSON.parse(data);
+        numberOfItemsToGet = 5;
+        items = filter(items, map, false);
+        items = filter(items, "Bilgewater", true);
+        items = filter(items, "Trinket", true);
+        items = filter(items, "Consumable", true);
+        items = filter(items, "Boots", true);
+        items = filter(items, "Jungle", true);
+
+        itemSet += '{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"SummonerSmite","items":[';
+
+        // OTHER ITEMS
         var itemKeys = Object.keys(items);
+        var groups = [];
         for (var i = 0; i < numberOfItemsToGet; ++i) {
           var itemKey = itemKeys[itemKeys.length * Math.random() << 0];
+          if (items[itemKey].group && groups.indexOf(items[itemKey].group) > -1) {
+            // Skip this item and try again.
+            delete items[itemKey];
+            --i;
+          }
           itemSet += '{"id":"' + itemKey + '","count":1}' + (i == numberOfItemsToGet - 1 ? '' : ',')
+          if (items[itemKey].group) {
+            groups.push(items[itemKey].group);
+          }
         }
         // Close block.
         itemSet += ']}';
+
+
         // Close item set.
         itemSet += ']}';
         this.href = "data:text/json;charset=utf-8," + encodeURIComponent(itemSet);
