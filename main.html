@@ -13,6 +13,55 @@
     <br/>
     <br/>
 
+    <b>Select a Filter:</b>
+    <br/>
+    <input type="radio" name="hpenta" value="" checked />None
+    <br/>
+    <input type="radio" name="hpenta" value="SpellDamage"/>Ability Power
+    <br/>
+    <input type="radio" name="hpenta" value="Active"/>Activated Items
+    <br/>
+    <input type="radio" name="hpenta" value="Armor"/>Armor
+    <br/>
+    <input type="radio" name="hpenta" value="ArmorPenetration"/>Armor Penetration
+    <br/>
+    <input type="radio" name="hpenta" value="Damage"/>Attack Damage
+    <br/>
+    <input type="radio" name="hpenta" value="AttackSpeed"/>Attack Speed
+    <br/>
+    <input type="radio" name="hpenta" value="Aura"/>Aura Items
+    <br/>
+    <input type="radio" name="hpenta" value="CooldownReduction"/>Cooldown Reduction
+    <br/>
+    <input type="radio" name="hpenta" value="CriticalStrike"/>Critical Strike Chance
+    <br/>
+    <input type="radio" name="hpenta" value="Health"/>Health
+    <br/>
+    <input type="radio" name="hpenta" value="HealthRegen"/>Health Regeneration
+    <br/>
+    <input type="radio" name="hpenta" value="LifeSteal"/>Life Steal
+    <br/>
+    <input type="radio" name="hpenta" value="MagicPenetration"/>Magic Penetration
+    <br/>
+    <input type="radio" name="hpenta" value="SpellBlock"/>Magic Resist
+    <br/>
+    <input type="radio" name="hpenta" value="Mana"/>Mana
+    <br/>
+    <input type="radio" name="hpenta" value="ManaRegen"/>Mana Regeneration
+    <br/>
+    <input type="radio" name="hpenta" value="NonbootsMovement"/>Movement Speed
+    <br/>
+    <input type="radio" name="hpenta" value="OnHit"/>On-hit Effects
+    <br/>
+    <input type="radio" name="hpenta" value="Slow"/>Slows
+    <br/>
+    <input type="radio" name="hpenta" value="SpellVamp"/>Spell Vamp
+    <br/>
+    <input type="radio" name="hpenta" value="Tenacity"/>Tenacity
+    <br/>
+    <br/>
+    
+
     <b>Click the button below.<br/>
        Save the result in C:/Riot Games/League of Legends/Config/Global/Recommended/ultimateBravery.json<br/>
        The item set will be available in League; it will be called "Ultimate Bravery".</b>
@@ -25,6 +74,7 @@ window.onload = function() {
         var items = JSON.parse(data);
         var numberOfItemsToGet = 5;
         var map = document.querySelector('input[name="map"]:checked').value;
+        var hpenta = document.querySelector('input[name="hpenta"]:checked').value;
         items = filter(items, map, false);
         items = filter(items, "Bilgewater", true);
         var itemSet = '{"title":"Ultimate Bravery","type":"custom","map":"any","mode":"any","priority":false,"sortrank":0,"blocks":[';
@@ -39,19 +89,27 @@ window.onload = function() {
           itemSet += '","count":1}]},';
         }
         items = filter(items, "Trinket", true);
+
+        // Grab some sets of items we need for later.
+        var flasks = filter(items, "Flask", false);
+        if (Object.keys(flasks).length > 0 && Object.keys(filter(flasks, hpenta, false)).length > 0) {
+          flasks = filter(flasks, hpenta, false);
+        }
+        items = filter(items, "Flask", true);
+        var consumables = filter(items, "Consumable", false);
         items = filter(items, "Consumable", true);
 
         // BOOTS
 
         var boots = filter(items, "Boots", false);
-        var bootKeys = Object.keys(boots);
-        if (bootKeys.length == 0) {
-          numberOfItemsToGet++;
-        } else {
-          itemSet += '{"type":"Boots","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[{"id":"';
-          itemSet += bootKeys[bootKeys.length * Math.random() << 0];
-          itemSet += '","count":1}]},';
+        alert(Object.keys(filter(boots, hpenta, false)));
+        if (Object.keys(filter(boots, hpenta, false)).length > 0) {
+          boots = filter(boots, hpenta, false);
         }
+        var bootKeys = Object.keys(boots);
+        itemSet += '{"type":"Boots","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[{"id":"';
+        itemSet += bootKeys[bootKeys.length * Math.random() << 0];
+        itemSet += '","count":1}]},';
         items = filter(items, "Boots", true);
 
         // JUNGLE ITEMS
@@ -62,11 +120,17 @@ window.onload = function() {
           // JUNGLE ITEM
           numberOfItemsToGet--;
           var jungleItems = filter(items, "Jungle", false);
+          if (Object.keys(filter(jungleItems, hpenta, false)).length > 0) {
+            jungleItems = filter(jungleItems, hpenta, false);
+          }
           var jungleItemKeys = Object.keys(jungleItems);
           itemSet += '{"id":"' + jungleItemKeys[jungleItemKeys.length * Math.random() << 0] + '","count":1},';
           items = filter(items, "Jungle", true);
 
           // OTHER ITEMS
+          if (hpenta != "") {
+            items = filter(items, hpenta, false);
+          }
           var itemKeys = Object.keys(items);
           var groups = [];
           for (var i = 0; i < numberOfItemsToGet; ++i) {
@@ -95,6 +159,9 @@ window.onload = function() {
         items = filter(items, "Consumable", true);
         items = filter(items, "Boots", true);
         items = filter(items, "Jungle", true);
+        if (hpenta != "") {
+          items = filter(items, hpenta, false);
+        }
 
         itemSet += '{"type":"Items","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"SummonerSmite","items":[';
 
@@ -108,14 +175,27 @@ window.onload = function() {
             delete items[itemKey];
             --i;
           }
-          itemSet += '{"id":"' + itemKey + '","count":1}' + (i == numberOfItemsToGet - 1 ? '' : ',')
+          itemSet += '{"id":"' + itemKey + '","count":1}' + (i == numberOfItemsToGet - 1 ? '' : ',');
           if (items[itemKey].group) {
             groups.push(items[itemKey].group);
           }
         }
         // Close block.
-        itemSet += ']}';
+        itemSet += ']},';
 
+        // CONSUMABLES
+        itemSet += '{"type":"Consumables","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[';
+        var consumableKeys = Object.keys(consumables);
+        for (var i = 0; i < consumableKeys.length; ++i) {
+          itemSet += '{"id":"' + consumableKeys[i] + '","count":1}' + (i == consumableKeys.length - 1 ? '' : ',');
+        }
+        var flaskKeys = Object.keys(flasks);
+        if (flaskKeys.length > 0) {
+          var flaskKey = flaskKeys[flaskKeys.length * Math.random() << 0];
+          itemSet += ',{"id":"' + flaskKey + '","count":1}';
+        }
+        // Close block.
+        itemSet += ']}';
 
         // Close item set.
         itemSet += ']}';

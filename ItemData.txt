@@ -544,6 +544,7 @@
         "tags": [
             "Consumable",
             "Health",
+            "Flask",
             "SR",
             "TT",
             "HA"
@@ -557,6 +558,7 @@
             "Consumable",
             "NonbootsMovement",
             "Tenacity",
+            "Flask",
             "SR",
             "TT",
             "HA"
@@ -570,6 +572,7 @@
             "Consumable",
             "ManaRegen",
             "SpellDamage",
+            "Flask",
             "SR",
             "TT",
             "HA"
@@ -584,6 +587,7 @@
             "Damage",
             "LifeSteal",
             "SpellVamp",
+            "Flask",
             "SR",
             "TT",
             "HA"
@@ -594,6 +598,7 @@
     },
     "3001": {
         "tags": [
+            "MagicPenetration",
             "Aura",
             "SpellBlock",
             "SpellDamage",
@@ -753,6 +758,7 @@
     "3041": {
         "tags": [
             "SpellDamage",
+            "CooldownReduction",
             "SR"
         ],
         "id": 3041,
@@ -1177,6 +1183,7 @@
     "3141": {
         "tags": [
             "Damage",
+            "AttackSpeed",
             "SR"
         ],
         "id": 3141,
