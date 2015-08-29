@@ -5,7 +5,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1300,
         "name": "Enchantment:Furor",
@@ -17,7 +18,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1301,
         "name": "Enchantment:Alacrity",
@@ -29,7 +31,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1302,
         "name": "Enchantment:Captain",
@@ -41,7 +44,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1303,
         "name": "Enchantment:Distortion",
@@ -50,7 +54,8 @@
     "1304": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1304,
         "name": "Enchantment:Homeguard",
@@ -119,7 +124,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1310,
         "name": "Enchantment:Furor",
@@ -131,7 +137,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1311,
         "name": "Enchantment:Alacrity",
@@ -143,7 +150,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1312,
         "name": "Enchantment:Captain",
@@ -155,7 +163,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1313,
         "name": "Enchantment:Distortion",
@@ -164,7 +173,8 @@
     "1314": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1314,
         "name": "Enchantment:Homeguard",
@@ -176,7 +186,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1315,
         "name": "Enchantment:Furor",
@@ -188,7 +199,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1316,
         "name": "Enchantment:Alacrity",
@@ -200,7 +212,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1317,
         "name": "Enchantment:Captain",
@@ -212,7 +225,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1318,
         "name": "Enchantment:Distortion",
@@ -221,7 +235,8 @@
     "1319": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1319,
         "name": "Enchantment:Homeguard",
@@ -233,7 +248,9 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1320,
         "name": "Enchantment:Furor",
@@ -245,7 +262,9 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1321,
         "name": "Enchantment:Alacrity",
@@ -257,7 +276,9 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1322,
         "name": "Enchantment:Captain",
@@ -269,7 +290,9 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1323,
         "name": "Enchantment:Distortion",
@@ -278,7 +301,9 @@
     "1324": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1324,
         "name": "Enchantment:Homeguard",
@@ -347,7 +372,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1330,
         "name": "Enchantment:Furor",
@@ -359,7 +385,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1331,
         "name": "Enchantment:Alacrity",
@@ -371,7 +398,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1332,
         "name": "Enchantment:Captain",
@@ -383,7 +411,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1333,
         "name": "Enchantment:Distortion",
@@ -392,7 +421,8 @@
     "1334": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1334,
         "name": "Enchantment:Homeguard",
@@ -402,7 +432,8 @@
         "tags": [
             "Bilgewater",
             "SR",
-            "Boots"
+            "Boots",
+            "AttackSpeed"
         ],
         "id": 1335,
         "name": "Enchantment:Teleport",
@@ -422,7 +453,8 @@
         "tags": [
             "Bilgewater",
             "SR",
-            "Boots"
+            "Boots",
+            "MagicPenetration"
         ],
         "id": 1337,
         "name": "Enchantment:Teleport",
@@ -432,7 +464,8 @@
         "tags": [
             "Bilgewater",
             "SR",
-            "Boots"
+            "Boots",
+            "Armor"
         ],
         "id": 1338,
         "name": "Enchantment:Teleport",
@@ -442,7 +475,9 @@
         "tags": [
             "Bilgewater",
             "SR",
-            "Boots"
+            "Boots",
+            "SpellBlock",
+            "Tenacity"
         ],
         "id": 1339,
         "name": "Enchantment:Teleport",
@@ -462,7 +497,8 @@
         "tags": [
             "Bilgewater",
             "SR",
-            "Boots"
+            "Boots",
+            "CooldownReduction"
         ],
         "id": 1341,
         "name": "Enchantment:Teleport",
