@@ -59,11 +59,28 @@
     <br/>
     <input type="radio" name="hpenta" value="Tenacity"/>Tenacity
     <br/>
+    <input type="radio" name="hpenta" value="Blue"/>Blue
+    <br/>
+    <input type="radio" name="hpenta" value="Brown"/>Brown
+    <br/>
+    <input type="radio" name="hpenta" value="Green"/>Green
+    <br/>
+    <input type="radio" name="hpenta" value="Orange"/>Orange
+    <br/>
+    <input type="radio" name="hpenta" value="Purple"/>Purple
+    <br/>
+    <input type="radio" name="hpenta" value="Red"/>Red
+    <br/>
+    <input type="radio" name="hpenta" value="White"/>White
+    <br/>
+    <input type="radio" name="hpenta" value="Yellow"/>Yellow
+    <br/>
     <br/>
     
 
     <b>Click the button below.<br/>
        Save the result in C:/Riot Games/League of Legends/Config/Global/Recommended/ultimateBravery.json<br/>
+       You may need to create some of these folders!<br/>
        The item set will be available in League; it will be called "Ultimate Bravery".</b>
     <br/>    
     <a id="mainButton"><button type="button">Ultimate Bravery Go!</button></a>
@@ -76,6 +93,8 @@
       Randomly! That's what Ultimate Bravery is all about: trying to deal with the weirdness of a randomly determined set of items.
     <h2>Sounds like fun! But what about the different items available on different maps? Or what about items that have restrictions so you sometimes can't buy them, like the jungle items?</h2>
     Great question! Although the item sets are randomly determined, there are some conditions that prevent the item sets from being impossible to complete in a game. No items from other maps will appear in your item set (though it's on you to select the map that you're going to play on). Every item set will be given one pair of boots. Every item set will have at most one support item (there could be none). If you take the summoner spell Smite in game, you will be given a jungle item, whereas if you don't take Smite, you won't be given a jungle item. It's like magic! 
+    <h2>I'm playing Viktor and my item set doesn't have the Hex Core. What gives?</h2>
+      Sorry about that. Viktor's a unique case like that, and there's no good way of dealing with it without explicitly asking you if you're going to play Viktor. I recommend replacing the last item in the item set with Hex Core.
     <h2>So I know what Ultimate Bravery is now, what is this "Hybrid Pentatration" business?</h2>
       In classic Ultimate Bravery, the items you are given are chosen from the entire item set. "Hybrid Pentatration" refers to the ability to select a filter, to get a "themed" build. For example, you can request a full cooldown reduction item set, and every item you're given will have cooldown reduction. Note that, if there are no boots/elixirs that match the filter, you will be given one randomly.
     <h2>The concept makes sense, but why is it called "Hybrid Pentatration"?</h2>
@@ -105,6 +124,9 @@ window.onload = function() {
         // TRINKET
 
         var trinkets = filter(items, "Trinket", false);
+        if (Object.keys(trinkets).length > 0 && Object.keys(filter(trinkets, hpenta, false)).length > 0) {
+          trinkets = filter(trinkets, hpenta, false);
+        }
         var trinketKeys = Object.keys(trinkets);
         if (trinketKeys.length > 0) {
           itemSet += '{"type":"Trinket","recMath":false,"minSummonerLevel":-1,"maxSummonerLevel":-1,"showIfSummonerSpell":"","hideIfSummonerSpell":"","items":[{"id":"';
