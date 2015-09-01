@@ -32,7 +32,8 @@
             "CS",
             "HA",
             "Boots",
-            "AttackSpeed"
+            "AttackSpeed",
+            "Yellow"
         ],
         "id": 1302,
         "name": "Enchantment:Captain",
@@ -55,7 +56,8 @@
         "tags": [
             "SR",
             "Boots",
-            "AttackSpeed"
+            "AttackSpeed",
+            "White"
         ],
         "id": 1304,
         "name": "Enchantment:Homeguard",
@@ -79,7 +81,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Green"
         ],
         "id": 1306,
         "name": "Enchantment:Alacrity",
@@ -103,7 +106,8 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Blue"
         ],
         "id": 1308,
         "name": "Enchantment:Distortion",
@@ -112,7 +116,8 @@
     "1309": {
         "tags": [
             "SR",
-            "Boots"
+            "Boots",
+            "White"
         ],
         "id": 1309,
         "name": "Enchantment:Homeguard",
@@ -151,7 +156,8 @@
             "CS",
             "HA",
             "Boots",
-            "MagicPenetration"
+            "MagicPenetration",
+            "Brown"
         ],
         "id": 1312,
         "name": "Enchantment:Captain",
@@ -164,7 +170,8 @@
             "CS",
             "HA",
             "Boots",
-            "MagicPenetration"
+            "MagicPenetration",
+            "Blue"
         ],
         "id": 1313,
         "name": "Enchantment:Distortion",
@@ -200,7 +207,8 @@
             "CS",
             "HA",
             "Boots",
-            "Armor"
+            "Armor",
+            "Green"
         ],
         "id": 1316,
         "name": "Enchantment:Alacrity",
@@ -264,7 +272,8 @@
             "HA",
             "Boots",
             "SpellBlock",
-            "Tenacity"
+            "Tenacity",
+            "Green"
         ],
         "id": 1321,
         "name": "Enchantment:Alacrity",
@@ -292,7 +301,8 @@
             "HA",
             "Boots",
             "SpellBlock",
-            "Tenacity"
+            "Tenacity",
+            "Blue"
         ],
         "id": 1323,
         "name": "Enchantment:Distortion",
@@ -339,7 +349,10 @@
             "TT",
             "CS",
             "HA",
-            "Boots"
+            "Boots",
+            "Yellow",
+            "Orange",
+            "Brown"
         ],
         "id": 1327,
         "name": "Enchantment:Captain",
@@ -373,7 +386,8 @@
             "CS",
             "HA",
             "Boots",
-            "CooldownReduction"
+            "CooldownReduction",
+            "Red"
         ],
         "id": 1330,
         "name": "Enchantment:Furor",
@@ -412,7 +426,8 @@
             "CS",
             "HA",
             "Boots",
-            "CooldownReduction"
+            "CooldownReduction",
+            "Blue"
         ],
         "id": 1333,
         "name": "Enchantment:Distortion",
@@ -559,7 +574,8 @@
             "Active",
             "Health",
             "Vision",
-            "SR"
+            "SR",
+            "Red"
         ],
         "id": 2045,
         "name": "RubySightstone"
@@ -583,7 +599,10 @@
             "Flask",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Orange",
+            "Yellow",
+            "Brown"
         ],
         "id": 2137,
         "name": "ElixirofRuin",
@@ -597,7 +616,10 @@
             "Flask",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Orange",
+            "Yellow",
+            "Brown"
         ],
         "id": 2138,
         "name": "ElixirofIron",
@@ -611,7 +633,9 @@
             "Flask",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Blue",
+            "Purple"
         ],
         "id": 2139,
         "name": "ElixirofSorcery",
@@ -626,7 +650,8 @@
             "Flask",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Red"
         ],
         "id": 2140,
         "name": "ElixirofWrath",
@@ -641,7 +666,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple",
+            "Brown"
         ],
         "id": 3001,
         "name": "AbyssalScepter"
@@ -653,7 +680,9 @@
             "SpellDamage",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Blue",
+            "Yellow"
         ],
         "id": 3003,
         "name": "Archangel'sStaff"
@@ -666,7 +695,9 @@
             "OnHit",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Blue",
+            "White"
         ],
         "id": 3004,
         "name": "Manamune"
@@ -676,7 +707,9 @@
             "Mana",
             "ManaRegen",
             "SpellDamage",
-            "CS"
+            "CS",
+            "Blue",
+            "Yellow"
         ],
         "id": 3007,
         "name": "Archangel'sStaff(CrystalScar)"
@@ -687,7 +720,9 @@
             "Mana",
             "ManaRegen",
             "OnHit",
-            "CS"
+            "CS",
+            "Blue",
+            "White"
         ],
         "id": 3008,
         "name": "Manamune(CrystalScar)"
@@ -701,7 +736,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "White"
         ],
         "id": 3022,
         "name": "FrozenMallet"
@@ -713,7 +750,10 @@
             "NonbootsMovement",
             "Slow",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Purple",
+            "Blue",
+            "White"
         ],
         "id": 3023,
         "name": "TwinShadows"
@@ -728,7 +768,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "White"
         ],
         "id": 3025,
         "name": "IcebornGauntlet"
@@ -738,7 +780,11 @@
             "Armor",
             "SpellBlock",
             "SR",
-            "CS"
+            "CS",
+            "Yellow",
+            "White",
+            "Green",
+            "Blue"
         ],
         "id": 3026,
         "name": "GuardianAngel"
@@ -752,7 +798,8 @@
             "SpellDamage",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Purple"
         ],
         "id": 3027,
         "name": "RodofAges"
@@ -764,7 +811,8 @@
             "Mana",
             "ManaRegen",
             "SpellDamage",
-            "CS"
+            "CS",
+            "Purple"
         ],
         "id": 3029,
         "name": "RodofAges(CrystalScar)"
@@ -774,7 +822,8 @@
             "CriticalStrike",
             "Damage",
             "SR",
-            "HA"
+            "HA",
+            "Yellow"
         ],
         "id": 3031,
         "name": "InfinityEdge"
@@ -786,7 +835,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "White"
         ],
         "id": 3035,
         "name": "LastWhisper"
@@ -795,7 +846,9 @@
         "tags": [
             "SpellDamage",
             "CooldownReduction",
-            "SR"
+            "SR",
+            "Yellow",
+            "Red"
         ],
         "id": 3041,
         "name": "Mejai'sSoulstealer"
@@ -808,7 +861,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red"
         ],
         "id": 3046,
         "name": "PhantomDancer"
@@ -823,7 +877,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "Purple",
+            "Brown"
         ],
         "id": 3050,
         "name": "Zeke'sHarbinger"
@@ -835,7 +892,9 @@
             "SR",
             "TT",
             "HA",
-            "CS"
+            "CS",
+            "Red",
+            "Purple"
         ],
         "id": 3053,
         "name": "Sterak'sGage"
@@ -848,7 +907,9 @@
             "Health",
             "HealthRegen",
             "NonbootsMovement",
-            "SR"
+            "SR",
+            "Blue",
+            "Purple"
         ],
         "id": 3056,
         "name": "Ohmwrecker"
@@ -865,7 +926,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow",
+            "Red",
+            "Purple"
         ],
         "id": 3060,
         "name": "BannerofCommand"
@@ -879,7 +943,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Green",
+            "Brown"
         ],
         "id": 3065,
         "name": "SpiritVisage"
@@ -891,7 +957,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow",
+            "Red",
+            "Orange"
         ],
         "id": 3068,
         "name": "SunfireCape"
@@ -907,7 +976,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow"
         ],
         "id": 3069,
         "name": "TalismanofAscension",
@@ -924,7 +994,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red"
         ],
         "id": 3071,
         "name": "TheBlackCleaver"
@@ -934,7 +1005,9 @@
             "Damage",
             "LifeSteal",
             "SR",
-            "HA"
+            "HA",
+            "Red",
+            "White"
         ],
         "id": 3072,
         "name": "TheBloodthirster"
@@ -949,7 +1022,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red",
+            "Orange",
+            "Brown"
         ],
         "id": 3074,
         "name": "RavenousHydra(MeleeOnly)"
@@ -959,7 +1035,9 @@
             "Armor",
             "SR",
             "CS",
-            "HA"
+            "HA",
+            "Red",
+            "Brown"
         ],
         "id": 3075,
         "name": "Thornmail"
@@ -977,7 +1055,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow"
         ],
         "id": 3078,
         "name": "TrinityForce"
@@ -987,7 +1066,9 @@
             "Health",
             "HealthRegen",
             "SR",
-            "HA"
+            "HA",
+            "Green",
+            "Brown"
         ],
         "id": 3083,
         "name": "Warmog'sArmor"
@@ -997,7 +1078,9 @@
             "Health",
             "HealthRegen",
             "TT",
-            "CS"
+            "CS",
+            "Purple",
+            "Brown"
         ],
         "id": 3084,
         "name": "Overlord'sBloodmail"
@@ -1009,7 +1092,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red",
+            "Orange"
         ],
         "id": 3085,
         "name": "Runaan'sHurricane(RangedOnly)"
@@ -1023,7 +1108,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow"
         ],
         "id": 3087,
         "name": "StatikkShiv"
@@ -1032,7 +1118,9 @@
         "tags": [
             "SpellDamage",
             "SR",
-            "HA"
+            "HA",
+            "Red",
+            "Purple"
         ],
         "id": 3089,
         "name": "Rabadon'sDeathcap"
@@ -1043,7 +1131,9 @@
             "Armor",
             "SpellDamage",
             "TT",
-            "CS"
+            "CS",
+            "Blue",
+            "Brown"
         ],
         "id": 3090,
         "name": "Wooglet'sWitchcap"
@@ -1056,7 +1146,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple",
+            "Blue",
+            "Brown"
         ],
         "id": 3091,
         "name": "Wit'sEnd"
@@ -1072,7 +1165,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue"
         ],
         "id": 3092,
         "name": "FrostQueen'sClaim",
@@ -1086,7 +1180,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Orange",
+            "Yellow"
         ],
         "id": 3100,
         "name": "LichBane"
@@ -1098,7 +1194,9 @@
             "SpellBlock",
             "SR",
             "TT",
-            "HA"
+            "HA",
+            "Blue",
+            "Red"
         ],
         "id": 3102,
         "name": "Banshee'sVeil"
@@ -1108,7 +1206,9 @@
             "CriticalStrike",
             "Damage",
             "TT",
-            "CS"
+            "CS",
+            "Yellow",
+            "Purple"
         ],
         "id": 3104,
         "name": "LordVanDamm'sPillager"
@@ -1122,7 +1222,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "White"
         ],
         "id": 3110,
         "name": "FrozenHeart"
@@ -1131,7 +1233,8 @@
         "tags": [
             "HealthRegen",
             "SpellBlock",
-            "HA"
+            "HA",
+            "Blue"
         ],
         "id": 3112,
         "name": "OrbofWinter"
@@ -1145,7 +1248,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow"
         ],
         "id": 3115,
         "name": "Nashor'sTooth"
@@ -1158,7 +1262,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow",
+            "Blue"
         ],
         "id": 3116,
         "name": "Rylai'sCrystalScepter"
@@ -1174,7 +1280,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "White",
+            "Yellow",
+            "Orange"
         ],
         "id": 3124,
         "name": "Guinsoo'sRageblade"
@@ -1186,7 +1295,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Brown",
+            "Blue",
+            "White"
         ],
         "id": 3135,
         "name": "VoidStaff"
@@ -1199,7 +1311,8 @@
             "NonbootsMovement",
             "SpellBlock",
             "TT",
-            "CS"
+            "CS",
+            "Green"
         ],
         "id": 3137,
         "name": "DervishBlade"
@@ -1211,7 +1324,8 @@
             "NonbootsMovement",
             "SpellBlock",
             "SR",
-            "HA"
+            "HA",
+            "Green"
         ],
         "id": 3139,
         "name": "MercurialScimitar"
@@ -1220,7 +1334,9 @@
         "tags": [
             "Damage",
             "AttackSpeed",
-            "SR"
+            "SR",
+            "Yellow",
+            "Green"
         ],
         "id": 3141,
         "name": "SwordoftheOccult"
@@ -1237,7 +1353,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple"
         ],
         "id": 3142,
         "name": "Youmuu'sGhostblade"
@@ -1251,7 +1368,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow",
+            "Orange"
         ],
         "id": 3143,
         "name": "Randuin'sOmen"
@@ -1267,7 +1386,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "Green"
         ],
         "id": 3146,
         "name": "HextechGunblade"
@@ -1280,7 +1401,9 @@
             "Damage",
             "LifeSteal",
             "NonbootsMovement",
-            "SR"
+            "SR",
+            "Yellow",
+            "Brown"
         ],
         "id": 3150,
         "name": "MirageBlade"
@@ -1293,7 +1416,10 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "White",
+            "Blue",
+            "Red"
         ],
         "id": 3151,
         "name": "Liandry'sTorment"
@@ -1306,7 +1432,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Brown"
         ],
         "id": 3152,
         "name": "WilloftheAncients"
@@ -1322,7 +1449,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple",
+            "Blue"
         ],
         "id": 3153,
         "name": "BladeoftheRuinedKing"
@@ -1334,7 +1463,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Yellow",
+            "Purple"
         ],
         "id": 3156,
         "name": "MawofMalmortius"
@@ -1345,7 +1476,9 @@
             "Armor",
             "SpellDamage",
             "SR",
-            "HA"
+            "HA",
+            "Blue",
+            "Yellow"
         ],
         "id": 3157,
         "name": "Zhonya'sHourglass"
@@ -1358,7 +1491,8 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple"
         ],
         "id": 3165,
         "name": "Morellonomicon"
@@ -1370,7 +1504,9 @@
             "SpellDamage",
             "Tenacity",
             "TT",
-            "CS"
+            "CS",
+            "Blue",
+            "Purple"
         ],
         "id": 3170,
         "name": "MoonflairSpellblade"
@@ -1382,7 +1518,9 @@
             "Damage",
             "NonbootsMovement",
             "Tenacity",
-            "SR"
+            "SR",
+            "Blue",
+            "Green"
         ],
         "id": 3172,
         "name": "Zephyr"
@@ -1396,7 +1534,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red",
+            "Yellow"
         ],
         "id": 3174,
         "name": "Athene'sUnholyGrail"
@@ -1407,7 +1547,10 @@
             "Health",
             "Mana",
             "SpellBlock",
-            "CS"
+            "CS",
+            "Purple",
+            "Blue",
+            "Yellow"
         ],
         "id": 3180,
         "name": "Odyn'sVeil"
@@ -1417,7 +1560,9 @@
             "Damage",
             "LifeSteal",
             "TT",
-            "CS"
+            "CS",
+            "Red",
+            "Yellow"
         ],
         "id": 3181,
         "name": "SanguineBlade"
@@ -1430,7 +1575,8 @@
             "NonbootsMovement",
             "Slow",
             "CS",
-            "HA"
+            "HA",
+            "Blue"
         ],
         "id": 3184,
         "name": "Entropy"
@@ -1444,7 +1590,9 @@
             "Stealth",
             "Vision",
             "CS",
-            "HA"
+            "HA",
+            "Blue",
+            "Yellow"
         ],
         "id": 3185,
         "name": "TheLightbringer"
@@ -1460,7 +1608,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Orange",
+            "Yellow"
         ],
         "id": 3190,
         "name": "LocketoftheIronSolari"
@@ -1472,20 +1622,13 @@
             "ManaRegen",
             "SpellBlock",
             "SR",
-            "HA"
+            "HA",
+            "Green",
+            "Yellow",
+            "Orange"
         ],
         "id": 3222,
         "name": "Mikael'sCrucible"
-    },
-    "3245": {
-        "tags": [
-            "Bilgewater",
-            "SR",
-            "Boots"
-        ],
-        "id": 3245,
-        "name": "Enchantment:Teleport",
-        "group": "BootsTeleport"
     },
     "3285": {
         "tags": [
@@ -1495,7 +1638,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple",
+            "Blue"
         ],
         "id": 3285,
         "name": "Luden'sEcho"
@@ -1511,7 +1656,10 @@
             "Vision",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Purple",
+            "Blue",
+            "Yellow"
         ],
         "id": 3290,
         "name": "TwinShadows(CrystalScar)"
@@ -1521,7 +1669,9 @@
             "Active",
             "Trinket",
             "Vision",
-            "SR"
+            "SR",
+            "Yellow",
+            "Green"
         ],
         "id": 3361,
         "name": "GreaterStealthTotem(Trinket)",
@@ -1532,7 +1682,9 @@
             "Active",
             "Trinket",
             "Vision",
-            "SR"
+            "SR",
+            "Yellow",
+            "Green"
         ],
         "id": 3362,
         "name": "GreaterVisionTotem(Trinket)",
@@ -1543,7 +1695,9 @@
             "Active",
             "Trinket",
             "Vision",
-            "SR"
+            "SR",
+            "Blue",
+            "White"
         ],
         "id": 3363,
         "name": "FarsightOrb(Trinket)",
@@ -1554,7 +1708,9 @@
             "Active",
             "Trinket",
             "Vision",
-            "SR"
+            "SR",
+            "Red",
+            "Brown"
         ],
         "id": 3364,
         "name": "Oracle'sLens(Trinket)",
@@ -1569,7 +1725,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Green",
+            "Brown"
         ],
         "id": 3401,
         "name": "FaceoftheMountain",
@@ -1581,7 +1739,8 @@
             "CooldownReduction",
             "OnHit",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Blue"
         ],
         "id": 3430,
         "name": "RiteofRuin"
@@ -1592,7 +1751,8 @@
             "CooldownReduction",
             "OnHit",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Blue"
         ],
         "id": 3431,
         "name": "NetherstrideGrimoire"
@@ -1603,7 +1763,9 @@
             "CooldownReduction",
             "OnHit",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Purple",
+            "Brown"
         ],
         "id": 3434,
         "name": "PoxArcana"
@@ -1617,7 +1779,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Red",
+            "Brown"
         ],
         "id": 3504,
         "name": "ArdentCenser"
@@ -1629,7 +1793,9 @@
             "LifeSteal",
             "ManaRegen",
             "SR",
-            "HA"
+            "HA",
+            "Blue",
+            "Green"
         ],
         "id": 3508,
         "name": "EssenceReaver"
@@ -1640,7 +1806,9 @@
             "HealthRegen",
             "NonbootsMovement",
             "SpellBlock",
-            "SR"
+            "SR",
+            "Purple",
+            "Blue"
         ],
         "id": 3512,
         "name": "Zz'RotPortal"
@@ -1651,7 +1819,9 @@
             "Bilgewater",
             "Damage",
             "NonbootsMovement",
-            "SR"
+            "SR",
+            "Red",
+            "Yellow"
         ],
         "id": 3652,
         "name": "TyphoonClaws"
@@ -1676,7 +1846,8 @@
             "Mana",
             "SpellDamage",
             "SR",
-            "TT"
+            "TT",
+            "Blue"
         ],
         "id": 3708,
         "name": "Enchantment:Runeglaive",
@@ -1687,7 +1858,8 @@
             "Health",
             "Jungle",
             "SR",
-            "TT"
+            "TT",
+            "Green"
         ],
         "id": 3709,
         "name": "Enchantment:Cinderhulk",
@@ -1713,7 +1885,8 @@
             "Damage",
             "Jungle",
             "SR",
-            "TT"
+            "TT",
+            "Red"
         ],
         "id": 3714,
         "name": "Enchantment:Warrior",
@@ -1737,7 +1910,8 @@
             "Health",
             "Jungle",
             "SR",
-            "TT"
+            "TT",
+            "Green"
         ],
         "id": 3717,
         "name": "Enchantment:Cinderhulk",
@@ -1787,7 +1961,8 @@
             "Health",
             "Jungle",
             "SR",
-            "TT"
+            "TT",
+            "Green"
         ],
         "id": 3721,
         "name": "Enchantment:Cinderhulk",
@@ -1800,7 +1975,8 @@
             "Jungle",
             "OnHit",
             "SR",
-            "TT"
+            "TT",
+            "Yellow"
         ],
         "id": 3722,
         "name": "Enchantment:Devourer",
@@ -1850,7 +2026,8 @@
             "Jungle",
             "OnHit",
             "SR",
-            "TT"
+            "TT",
+            "Purple"
         ],
         "id": 3726,
         "name": "Enchantment:Devourer",
@@ -1865,7 +2042,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Brown",
+            "Orange"
         ],
         "id": 3742,
         "name": "DeadMan'sPlate"
@@ -1876,7 +2055,8 @@
             "Bilgewater",
             "CooldownReduction",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Blue"
         ],
         "id": 3744,
         "name": "StaffofFlowingWater"
@@ -1891,7 +2071,9 @@
             "OnHit",
             "SpellBlock",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Purple",
+            "Brown"
         ],
         "id": 3745,
         "name": "Puppeteer"
@@ -1904,7 +2086,9 @@
             "SR",
             "TT",
             "HA",
-            "CS"
+            "CS",
+            "Green",
+            "Brown"
         ],
         "id": 3748,
         "name": "TitanicHydra(MeleeOnly)"
@@ -1920,7 +2104,9 @@
             "SR",
             "TT",
             "CS",
-            "HA"
+            "HA",
+            "Brown",
+            "Orange"
         ],
         "id": 3800,
         "name": "RighteousGlory"
@@ -1933,7 +2119,10 @@
             "MagicPenetration",
             "NonbootsMovement",
             "SpellDamage",
-            "SR"
+            "SR",
+            "Blue",
+            "White",
+            "Brown"
         ],
         "id": 3829,
         "name": "Trickster'sGlass"
@@ -1944,7 +2133,10 @@
             "CooldownReduction",
             "GoldPer",
             "ManaRegen",
-            "SR"
+            "SR",
+            "Purple",
+            "Blue",
+            "White"
         ],
         "id": 3840,
         "name": "GlobeofTrust",
@@ -1956,7 +2148,9 @@
             "CooldownReduction",
             "Health",
             "HealthRegen",
-            "SR"
+            "SR",
+            "Green",
+            "Brown"
         ],
         "id": 3911,
         "name": "Martyr'sGambit"
@@ -1967,7 +2161,8 @@
             "Bilgewater",
             "Damage",
             "LifeSteal",
-            "SR"
+            "SR",
+            "Red"
         ],
         "id": 3924,
         "name": "Flesheater(MeleeOnly)"
